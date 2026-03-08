@@ -2,12 +2,12 @@
 
 ## Index
 **★** **[Actions](#★-actions) ↗ <br>**
-**♥** **[Activities](#02-activities) ↗ <br>**
+**♥** **[Activities](#♥-activities) ↗ <br>**
 **♺** **[Exchanges](#♺-exchanges) ↗ <br>**
 **■** **[Exhibits](#■-exhibits) ↗ <br>**
-** ** **[Installations](#05-installations) ↗ <br>**
-** ** **[Exchanges](#06-exchanges) ↗ <br>**
-** ** **[Workshops](#07-workshops) ↗ <br>**
+**●** **[Installations](#●-installations) ↗ <br>**
+**✤** **[Performances](#✤-performances) ↗ <br>**
+**▲** **[Workshops](#▲-workshops) ↗ <br>**
 
 ---
 
@@ -18,7 +18,7 @@ Actions list here
 
 ---
 
-## 02 Activities
+## ♥ Activities
 Activities list here
 
 **[Back to Index](#index) ↗**
@@ -39,21 +39,21 @@ Exhibits list here
 
 ---
 
-## 05 Installations
-Exchanges list here
+## ● Installations
+Installations list here
 
 **[Back to Index](#index) ↗**
 
 ---
 
-## 06 Exchanges
-Exchange list here
+## ✤ Performances
+Performances list here
 
 **[Back to Index](#index) ↗**
 
 ---
 
-## 07 Workshops
+## ▲ Workshops
 Workshops list here
 
 **[Back to Index](#index) ↗**
