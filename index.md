@@ -50,7 +50,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -91,7 +91,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -132,7 +132,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -173,7 +173,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -214,7 +214,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -255,7 +255,7 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
 
@@ -296,6 +296,6 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-**[Back to Index](#index) ↗**
+**↗ [Back to Index](#index)**
 
 ---
