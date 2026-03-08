@@ -1,7 +1,7 @@
 # ABK Earth Day 2026
 
 ## Index
-- [Introduction](#welcome)
+- [Welcome](#welcome)
 - [Chapter 1](#chapter-1)
 - [Chapter 2](#chapter-2)
 
