@@ -325,11 +325,11 @@ The Dutch word “Klinker” means sintered brick. Developed to inspire inhabita
 **●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
 
 By **[Duo UFO](https://www.instagram.com/duo_ufo/)** <br>
-**Jonathan Ohr** & **Nikita Neitzke**
+**Jonathan Ohr** & **Nikita Neitzke** <br>
 **• Campus** <br>
 **• Hof** <br>
 **• 10:00–20:00** <br> 
-Coordination: **Patrick Thomas** & **Veronika Aumann**
+Coordination: **Patrick Thomas** & **Veronika Aumann** <br>
 
 **↗ [Back to Index](#index)**
 
