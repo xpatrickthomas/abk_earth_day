@@ -230,10 +230,10 @@ By **Annalisa Fitz** & **Ida Zimmermann**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**▣8. [Title]** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
+**▣8. Eco-Reading Space** <br>
+Organised by **Anna Lukasek** & **Elsa Weber**<br>
+**• Altbau** <br>
+**• Raum 204B – Bibliothek** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
@@ -243,40 +243,101 @@ Description will appear here<br>
 
 ## ● Installations
 
-**●1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**●1. [Title]** <br>
+By **Lisa Wedler & Mira Traub** (Klasse Choi)<br>
+**• Neubau 2** <br>
+**• 1.25 – Kopierraum** <br>
+**• 10:00–18:00** <br> 
+Videoprojektion<br>
 
-**●2. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**●2. [Title]** <br>
+By **Lisa Wedler** (Klasse Choi)<br>
+**• (Vor dem) Altbau** <br>
+**• Wiese direkt vor dem Haupteingang** <br>
+**• 10:00–18:00** <br> 
+Installation mit verschiedene Erde auf der Wiese<br>
 
-**●3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**●3. [Title]** <br>
+By **Birk Hinnersmann** (Klasse Choi)<br>
+**• Neubau2** <br>
+**• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
+**• 10:00–18:00** <br> 
+Holzskulptur mit LEDs, Arduino<br>
 
-**●4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**●4. [Title]** <br>
+By **Paula Bother & Rosa Klingelhöfer** (Klasse Choi)<br>
+**• Neubau 2** <br>
+**• Foyer** <br>
+**• 10:00–18:00** <br> 
+5 Holzskulpturen mit handgeschöpfte Papiere<br>
 
-**●5. Title** <br>
+**●5. Blau Machen (recycelt)** <br>
+By **Klasse Choi**<br>
+**• Altbau** <br>
+**• Raum 223** <br>
+**• 10:00–20:00** <br> 
+Description will appear here
+
+**●6. [Title]** <br>
+By **Ava Will** (Klasse Choi)<br>
+**• AKA-Garten** <br>
+**• (Vor dem) Glaskasten** <br>
+**• 10:00–18:00** <br> 
+Schneckenförmige Skulptur aus Stahl, bedeckt mit Erde und Moos
+
+**●7. Project title: This Could Be Us (at)** <br>
+By **Lorenzo Mastrosimone** (Klasse Choi)<br>
+**• Altbau** <br>
+**• Alte Aula(?)** <br>
+**• 10:00–20:00** <br> 
+A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
+
+**●8. [Title]** <br>
+By **Dietke Hellwig** (Klasse Choi)<br>
+**• Neubau 2** <br>
+**• Graben(?)** <br>
+**• 10:00–18:00** <br> 
+Holzschrank mit kleinen Objekten
+
+**●9. EARTH PIECE<br>Listen to the sound of the earth turning.** <br>
+Coordination **Klasse Thomas**<br>
+**• Neubau 2** <br>
+**• 1UG – Graben** <br>
+**• 10:00–20:00** <br> 
+Description will appear here
+
+**●10. Bird Camp** <br>
+
+By **[[https://www.chriskabel.com/|Chris Kabel]]**↗
+
 By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
+**• AKA-Garten** <br>
+**• TBA** <br>
+**• 10:00–20:00** <br> 
+Tetraedrical tent <br>
+“All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel*
+
+**●11. Binderklinker** <br>
+
+By **[[https://www.chriskabel.com/|Chris Kabel]]**↗
+
+By **Name**<br>
+**• Werkstattbau** <br>
+**• TBA** <br>
+**• 10:00–18:00** <br> 
+The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord. 
+
+**[[https://www.chriskabel.com/Binder-Klinker|More information]]**↗
+
+**●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
+
+Installation by **[[https://www.instagram.com/duo_ufo/|DUO UFO]]**↗**<br>Jonathan Ohr** & **Nikita Neitzke**
+
+By **Name**<br>
+**• Campus** <br>
+**• Hof** <br>
+**• 10:00–20:00** <br> 
+Coordination: **Patrick Thomas** & **Veronika Aumann**
 
 **↗ [Back to Index](#index)**
 
