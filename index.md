@@ -101,34 +101,6 @@ In collaboration with <br>
 
 ## ♺ Exchanges
 
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
-
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
-
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [Description here]** <br>
-
-**Title: [Title here]** <br>
-**Author: [Name here]** <br>
-**Building: [Location here]** <br>
-**Room: [Room here]** <br>
-**Time: [Time here]** <br> 
-**Description: [list here
-
 **[Title here]** <br>
 **[Name here]** <br>
 **[Location here]** <br>
