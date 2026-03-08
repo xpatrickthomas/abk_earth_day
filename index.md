@@ -140,19 +140,19 @@ Description
 
 ## ♺ Exchanges
 
-**♺1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♺1. Kleidertausch** <br>
+Organised by **TBA**<br>
+**• Neubau 1** <br>
+**• Glaskasten** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
-**♺2. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**♺2. Büchertausch** <br>
+Organised by **TBA**<br>
+**• Neubau 1** <br>
+**• Glaskasten** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
 **♺3. Title** <br>
 By **Name**<br>
@@ -181,40 +181,61 @@ Description
 
 ## ▣ Exhibits
 
-**▣1. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**▣1. [Title]** <br>
+By **Textile design department**<br>
+**• Keramikbau** <br>
+**• Raum 000** <br>
+**• 10:00–18:00** <br> 
+Description will appear here<br>
 
-**▣2. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**▣2. Left-over paintings** <br>
+By **Veronika Aumann**<br>
+**• Keramikbau** <br>
+**• Raum 000** <br>
+**• 10:00–18:00** <br> 
+Description will appear here<br>
 
-**▣3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**▣3. [Title]** <br>
+By **Textile design department**<br>
+**• Keramikbau** <br>
+**• Raum 000** <br>
+**• 10:00–18:00** <br> 
+Description will appear here<br>
 
-**▣4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**▣4. [Title]** <br>
+By **Textile design department**<br>
+**• Keramikbau** <br>
+**• Raum 000** <br>
+**• 10:00–18:00** <br> 
+Description will appear here<br>
 
-**▣5. Title** <br>
+**▣5. [Title]** <br>
+By **Textile design department**<br>
+**• Keramikbau** <br>
+**• Raum 000** <br>
+**• 10:00–18:00** <br> 
+Description will appear here<br>
+
+**▣6. [Title]** <br>
+By **Maximilian Messer**<br>
+**• Bildhauerbau** <br>
+**• Raum 28** <br>
+**• 14:00–19:00** <br> 
+A highly personal and contemplative exhibition capturing the joy of wild camping in nature
+
+**▣7. [Title]** <br>
+By **Annalisa Fitz** & **Ida Zimmermann**<br>
+**• Altbau** <br>
+**• Raum 120 – ABK Typelab** <br>
+**• 10:00–17:00** <br> 
+Description will appear here<br>
+
+**▣8. [Title]** <br>
 By **Name**<br>
 **• Location** <br>
 **• Room** <br>
-**• Time** <br> 
-Description
+**• 10:00–17:00** <br> 
+Description will appear here<br>
 
 **↗ [Back to Index](#index)**
 
