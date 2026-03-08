@@ -12,7 +12,7 @@
 ---
 
 **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗** <br>
-**[Timetable](#timetable) ↗** <br>
+**[Key Events](#key-events) ↗** <br>
 
 ---
 
@@ -352,16 +352,14 @@ Description
 
 ---
 
-## Timetable
-
+## Key Events
 
 | Time            | Activity         | Location        | Room          |
 | :------------   | :------------    | :------------   | :------------ |   
 | 08:30–09:30     | Yoga             | Altbau          | Raum 213      |
-| 08:30–09:30     | Public Talks     | Altbau          | Raum 213      |
+| 10:00–17:00     | Public Talks     | Neubau 2        | Vortragssaal  |
 | 17:00–17:30     | Award Ceremony   | Campus          | Garten        |
 | 17:30–18:00     | Earth Day Tree   | Campus          | Garten        |
 | 18:00–20:00     | Eco-Kino         | Neubau 2        | Vortragssaal  |
-
 
 
