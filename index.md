@@ -12,7 +12,6 @@
 ---
 
 ## ★ Actions
-Actions list here
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -57,7 +56,6 @@ In collaboration with <br>
 ---
 
 ## ♥ Activities
-Activities list here
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -102,7 +100,6 @@ In collaboration with <br>
 ---
 
 ## ♺ Exchanges
-Exchanges list here
 
 **Title: [Title here]** <br>
 **Author: [Name here]** <br>
@@ -175,7 +172,6 @@ In collaboration with <br>
 ---
 
 ## ▣ Exhibits
-Exhibits list here
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -220,7 +216,6 @@ In collaboration with <br>
 ---
 
 ## ● Installations
-Installations list here
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -265,7 +260,6 @@ In collaboration with <br>
 ---
 
 ## ▲ Performances
-Performances list here
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -310,7 +304,6 @@ In collaboration with <br>
 ---
 
 ## ■ Workshops
-Workshops list here
 
 **[Title here]** <br>
 **[Name here]** <br>
