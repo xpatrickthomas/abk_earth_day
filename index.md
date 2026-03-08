@@ -342,7 +342,7 @@ By **Jerry Ahn**, **Seonha Park** (& **Jessica Lipp**)<br>
 **• Raum 28** <br>
 **• 14:00–19:00** <br> 
 A five-hour sound performance of anxiety, boredom, joy and hope. <br>
-The live sound performance will be recorded by **Jessica Lipp**,**[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
+The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
 
 **☆2. Title** <br>
 By **Name**<br>
