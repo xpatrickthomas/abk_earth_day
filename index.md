@@ -1,13 +1,13 @@
 # Itinerary
 
 ## Index
-**★** **[Actions](#actions) ↗**<br>
-**♥** **[Activities](#activities) ↗**<br>
-**♺** **[Exchanges](#exchanges) ↗**<br>
-**■** **[Exhibits](#exhibits) ↗**<br>
-**●** **[Installations](#installations) ↗**<br>
-**✤** **[Performances](#performances) ↗**<br>
-**▲** **[Workshops](#workshops) ↗**<br>
+**★** **[Actions](#actions) ↗** <br>
+**♥** **[Activities](#activities) ↗** <br>
+**♺** **[Exchanges](#exchanges) ↗** <br>
+**■** **[Exhibits](#exhibits) ↗** <br>
+**●** **[Installations](#installations) ↗** <br>
+**✤** **[Performances](#performances) ↗** <br>
+**▲** **[Workshops](#workshops) ↗** <br>
 
 ---
 
