@@ -64,21 +64,21 @@ Organised by **Michaela Wirsig**<br>
 **• 11:00–15:00** <br> 
 A friendly information point featuring the 17 UN Development Goals and current sustainable projects that are thematically related to ABK Stuttgart
 
-**8. Title** <br>
+**8. [Title]** <br>
 By **[Jack Taylor](https://www.jacktaylor.eu/)** & **[Jay Wright](https://jaydanielwright.com)** <br>
 **• Campus** <br>
 **• Campus Weißenhof** <br>
 **• 10:00–18:00** <br> 
 Description will appear here
 
-**9. Title** <br>
+**9. [Title]** <br>
 By **Name**<br>
 **• Location** <br>
 **• Room** <br>
 **• Time** <br> 
 Description
 
-**10. Title** <br>
+**10. [Title]** <br>
 By **Name**<br>
 **• Location** <br>
 **• Room** <br>
