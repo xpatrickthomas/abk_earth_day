@@ -86,7 +86,7 @@ By the **Textile design department**<br>
 **• Campus Weißenhof** <br>
 **• Haupteingang** <br>
 **• 08:00–23:59** <br> 
-"Leave no trace" intervention on the academy flags
+“Leave no trace” intervention on the academy flags
 
 **↗ [Back to Index](#index)**
 
