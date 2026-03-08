@@ -88,8 +88,6 @@ By **Name**<br>
 **• Time** <br> 
 Description
 
-<br>
-
 **↗ [Back to Index](#index)**
 
 ---
