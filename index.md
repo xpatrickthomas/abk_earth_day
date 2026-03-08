@@ -354,12 +354,12 @@ Description
 
 ## Key Events
 
-| Time            | Activity          | Location        | Room            |
-| :------------   | :------------     | :------------   | :------------   |   
-| 08:30–09:30     | Yoga              | Altbau          | Raum 213        |
-| 10:00–17:00     | Public Talks      | Neubau 2        | Vortragssaal    |
-| 17:00–17:30     | Award Ceremony    | Campus          | Garten          |
-| 17:30–18:00     | Earth Day Tree    | Campus          | Garten          |
-| 18:00–20:00     | Eco-Kino          | Neubau 2        | Vortragssaal    |
+| Time            | Activity          | Location                 |
+| :------------   | :------------     | :-------------------     |   
+| 08:30–09:30     | Yoga              | Altbau – Raum 213        |
+| 10:00–17:00     | Public Talks      | Neubau 2 – Vortragssaal  |
+| 17:00–17:30     | Award Ceremony    | Campus – Garten          |
+| 17:30–18:00     | Earth Day Tree    | Campus – Garten          |
+| 18:00–20:00     | Eco-Kino          | Neubau 2 – Vortragssaal  |
 
 
