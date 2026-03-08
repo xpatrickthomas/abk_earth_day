@@ -1,17 +1,12 @@
 # ABK Earth Day 2026
 
+## Itinerary
+Welcome to **ABK Earth Day 2026**
+Please find an overview of the **Itinerary** below
+
 ## Index
-- [Welcome](#welcome)
 - [01 Action](#chapter-10)
 - [Chapter 20](#chapter-20)
-
----
-
-## Welcome
-Welcome to ABK Earth Day 2026!  
-This section gives an overview of the Itinerary.
-
-Click [Chapter 1](#chapter-1) to continue.
 
 ---
 
