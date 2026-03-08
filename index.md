@@ -2,12 +2,19 @@
 
 ## Index
 **★ [Actions](#actions) ↗**
+
 **★ [Actions](#actions) ↗**
+
 **♥ [Activities](#activities) ↗**
+
 **♺ [Exchanges](#exchanges) ↗**
+
 **■ [Exhibits](#exhibits) ↗**
+
 **● [Installations](#installations) ↗**
+
 **✤ [Performances](#performances) ↗**
+
 **▲ [Workshops](#workshops) ↗**
 
 ---
