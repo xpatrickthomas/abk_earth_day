@@ -14,7 +14,7 @@
 ## ★ Actions
 
 **1. Knitting – Knowledge Transfer** <br>
-In collaboration with **Local Knitting Associations** & **ABK Stuttgart** <br>
+In collaboration with **Local Knitting Associations** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
 **• 12:00–17:00** <br> 
