@@ -2,6 +2,9 @@
 
 ## Index
 **★** **[Actions](#actions) ↗ <br>**
+
+**★** **[Actions](#actions) ↗ <br>**
+
 **♥** **[Activities](#activities) ↗ <br>**
 **♺** **[Exchanges](#exchanges) ↗ <br>**
 **■** **[Exhibits](#exhibits) ↗ <br>**
