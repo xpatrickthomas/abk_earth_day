@@ -13,14 +13,14 @@
 
 ## ★ Actions
 
-**[Title here]** <br>
-**[Name here]** <br>
-**[Location here]** <br>
-**[Room here]** <br>
-**[Time here]** <br> 
-**[Description here]** <br>
+**1. Knitting – Knowledge Transfer** <br>
+In collaboration with **Local Knitting Associations** & **ABK Stuttgart** <br>
+**• Neubau 1** <br>
+**• Glaskasten** <br>
+**• 12:00–17:00** <br> 
+A knitting circle bringing together experienced knitters and ABK students and staff, fostering community, sustainability, and creativity through conversation, shared experiences and skills. <br>
 
-**[Title here]** <br>
+**2. Title here** <br>
 **[Name here]** <br>
 **[Location here]** <br>
 **[Room here]** <br>
