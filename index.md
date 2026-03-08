@@ -1,6 +1,6 @@
 # Full Itinerary
 
-### Index
+## Index
 **★ [Actions](#-actions) ↗** <br>
 **♥ [Activities](#-activities) ↗** <br>
 **♺ [Exchanges](#-exchanges) ↗** <br>
@@ -13,7 +13,7 @@
 
 ---
 
-### ★ Actions
+## ★ Actions
 
 **1. Knitting – Knowledge Transfer** <br>
 In collaboration with **Local Knitting Associations** <br>
@@ -54,7 +54,7 @@ Description
 
 ---
 
-### ♥ Activities
+## ♥ Activities
 
 **1. Title** <br>
 By **Name**<br>
@@ -95,7 +95,7 @@ Description
 
 ---
 
-### ♺ Exchanges
+## ♺ Exchanges
 
 **1. Title** <br>
 By **Name**<br>
@@ -136,7 +136,7 @@ Description
 
 ---
 
-### ▣ Exhibits
+## ▣ Exhibits
 
 **1. Title** <br>
 By **Name**<br>
@@ -177,7 +177,7 @@ Description
 
 ---
 
-### ● Installations
+## ● Installations
 
 **1. Title** <br>
 By **Name**<br>
@@ -218,7 +218,7 @@ Description
 
 ---
 
-### ☆ Performances
+## ☆ Performances
 
 **1. Title** <br>
 By **Name**<br>
@@ -259,7 +259,7 @@ Description
 
 ---
 
-### ■ Workshops
+## ■ Workshops
 
 **1. Title** <br>
 By **Name**<br>
