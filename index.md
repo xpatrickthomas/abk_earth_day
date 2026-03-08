@@ -1,10 +1,6 @@
-**↖** **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map "Back to ABK Campus Earth Day Map")**
-
----
-
 # Full Itinerary
 
-## Index
+### Index
 **★ [Actions](#-actions) ↗** <br>
 **♥ [Activities](#-activities) ↗** <br>
 **♺ [Exchanges](#-exchanges) ↗** <br>
@@ -13,9 +9,11 @@
 **☆ [Performances](#-performances) ↗** <br>
 **■ [Workshops](#-workshops) ↗** <br>
 
+**↖** **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map "Back to ABK Campus Earth Day Map")**
+
 ---
 
-## ★ Actions
+### ★ Actions
 
 **1. Knitting – Knowledge Transfer** <br>
 In collaboration with **Local Knitting Associations** <br>
@@ -59,7 +57,7 @@ In collaboration with <br>
 
 ---
 
-## ♥ Activities
+### ♥ Activities
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -103,7 +101,7 @@ In collaboration with <br>
 
 ---
 
-## ♺ Exchanges
+### ♺ Exchanges
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -147,7 +145,7 @@ In collaboration with <br>
 
 ---
 
-## ▣ Exhibits
+### ▣ Exhibits
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -191,7 +189,7 @@ In collaboration with <br>
 
 ---
 
-## ● Installations
+### ● Installations
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -235,7 +233,7 @@ In collaboration with <br>
 
 ---
 
-## ☆ Performances
+### ☆ Performances
 
 **[Title here]** <br>
 **[Name here]** <br>
@@ -279,7 +277,7 @@ In collaboration with <br>
 
 ---
 
-## ■ Workshops
+### ■ Workshops
 
 **[Title here]** <br>
 **[Name here]** <br>
