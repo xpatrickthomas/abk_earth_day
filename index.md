@@ -307,10 +307,7 @@ Coordination **Klasse Thomas**<br>
 Description will appear here
 
 **●10. Bird Camp** <br>
-
-By **[[https://www.chriskabel.com/|Chris Kabel]]**↗
-
-By **Name**<br>
+By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• AKA-Garten** <br>
 **• TBA** <br>
 **• 10:00–20:00** <br> 
@@ -318,16 +315,12 @@ Tetraedrical tent <br>
 “All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel*
 
 **●11. Binderklinker** <br>
-
-By **[[https://www.chriskabel.com/|Chris Kabel]]**↗
-
-By **Name**<br>
+By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• Werkstattbau** <br>
 **• TBA** <br>
 **• 10:00–18:00** <br> 
-The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord. 
-
-**[[https://www.chriskabel.com/Binder-Klinker|More information]]**↗
+The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord.<br>
+**[More information](https://www.chriskabel.com/Binder-Klinker)**↗ <br>
 
 **●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
 
