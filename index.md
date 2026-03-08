@@ -60,7 +60,7 @@ By **Organiser’s name**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**★7. 17 UN Goals and the Topic of Sustainability** <br>
+**★7. Sustainability: 17 UN Goals** <br>
 Organised by **Michaela Wirsig**<br>
 **• Neubau 2** <br>
 **• Foyer – Nam June Paik Videowall** <br>
