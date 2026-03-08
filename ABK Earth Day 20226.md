@@ -8,8 +8,8 @@
 ---
 
 ## Welcome
-Welcome to this book!  
-This section gives an overview of the topics we’ll cover.
+Welcome to ABK Earth Day 2026!  
+This section gives an overview of the Itinerary.
 
 Click [Chapter 1](#chapter-1) to continue.
 
@@ -19,7 +19,7 @@ Click [Chapter 1](#chapter-1) to continue.
 This is the first chapter.  
 Here we dive into the main content.
 
-Click [Chapter 2](#chapter-2) to continue, or [Back to Introduction](#introduction).
+Click [Chapter 2](#chapter-2) to continue, or [Back to Welcome](#welcome).
 
 ---
 
