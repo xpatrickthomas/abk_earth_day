@@ -82,7 +82,7 @@ Organised by **Yeliz Kiliçaslan**<br>
 Ein einziger Stummel kann bis zu 1.000 Liter Wasser vergiften, tötet Wasserorganismen und führt zu Mikroplastikbelastung. Daher wird unter der Aktion **Kippenmüll** Zigarettenstümmel gesammelt und in den Müll geworfen.
 
 **10. Flag Intervention** <br>
-By **Textile design department**<br>
+By the **Textile design department**<br>
 **• Campus Weißenhof** <br>
 **• Haupteingang** <br>
 **• 08:00–23:59** <br> 
