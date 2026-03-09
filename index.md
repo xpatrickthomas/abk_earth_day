@@ -139,28 +139,28 @@ Rektorin ABK Stuttgart <br>
 **•** Design: **Oliver Krimmel** [Freunde der Akademie](https://abk-freunde.de/) <br>
 The organisers of **ABK Earth Day** would like to thank the members of the jury and **Freunde der Akademie** for their generous support <br>
 
-**♥6. ABK Earth Day Tree: 2nd Birthday party 🎂**
-**All welcome**
+**♥6. ABK Earth Day Tree: 2nd Birthday party 🎂** <br>
+**All welcome** <br>
 **• Campus** <br>
 **• Im Hof** <br>
 **• 17:30–18:00** <br> 
 Come and eat a piece of cake to celebrate the 2nd birthday of **ABK Earth Day Tree**, planted to commemorate the first ABK Earth Day on 22.4.2024
 
-**♥7. When shit hits the fan**
+**♥7. When Shit Hits The Fan** <br>
 Organised by <br>
-**AM David Gebka**, & **AM Max Neustadt**
-Projektarbeit **Industrial Design 2. Semester**
+AM **David Gebka**, & AM **Max Neustadt** <br>
+Projektarbeit **Industrial Design 2. Semester** <br>
 • Neubau 2
 • Room
 • 10:00–11:30(?)
 Sturmflut, Waldbrand, Pandemie. Kein Empfang, kein Strom, kein Klopapier. Das Unerwartete kann jederzeit eintreffen, deshalb gilt: allzeit bereit. <br> Wir beschäftigen uns in der Gestaltungsübung mit kleineren und größeren Katastrophen und damit, wie man im Alltag auf sie vorbereitet sein kann. Ganz konkret geht es um Objekte, die man mit sich führt, die man im Ernstfall nicht missen will. Weniger um nach einem Atomkrieg eine Zivilisation neu aufzubauen, aber vielleicht, um es im feststeckenden Aufzug ein paar Stunden ein bisschen gemütlicher zu haben. Einfache, tragbare, smarte Helfer. <br> Um ein Gefühl für die unterschiedlichen Qualitäten von Ausnahmesituationen zu bekommen, dient die folgende Liste als inhaltlicher Auftakt. Sie deckt das Spektrum von schleichenden klimatischen Veränderungen bis hin zu plötzlichen infrastrukturellen Kollapsen ab:
 
-**♥8. Title**
-By Name
-• Location
-• Room
-• Time
-Description
+**♥8. Title** <br>
+By **Name** <br>
+**• Location** <br>
+**• Room** <br>
+**• Time** <br> 
+Description<br>
 
 **↗ [Back to Index](#index)**
 
