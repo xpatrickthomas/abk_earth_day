@@ -133,19 +133,19 @@ Rektorin ABK Stuttgart
 
 **Jury Members**
 
-1. Art
-**Dr. Elke Allgaier** & **Ilona Lütken**
-[[https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive|Archiv Sohm – Staatsgalerie]]
+Art <br>
+**Dr. Elke Allgaier** & **Ilona Lütken** <br>
+[Archiv Sohm – Staatsgalerie](https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive)<br>
 
-2. Science
-**Anja Necker**
+Science <br>
+**Anja Necker** <br>
 [[https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/klimaschutz-an-hochschulen/klimaschutzmanager|Klimaschutzmanagerin der Landes HS Esslingen]]
 
-3. Design
-**Oliver Krimmel**
-[[https://abk-freunde.de/|Freunde der Akademie]]
+Design <br>
+**Oliver Krimmel** <br>
+[Freunde der Akademie](https://abk-freunde.de/)
 
-The organisers of **ABK Earth Day** would like to thank the members of the jury and **Freunde der Akademie** for their generous support**
+The organisers of **ABK Earth Day** would like to thank the members of the jury and **Freunde der Akademie** for their generous support** <br>
 **• Location** 
 **• Room** <br>
 **• Time** <br> 
