@@ -129,25 +129,19 @@ In alten Mythen sind Feen und Gnome kleine Waldwesen, die sich liebevoll um ihre
 
 **♥5. ABK Earth Day Awards Ceremony 🏆** <br>
 Grußwort **Prof. Dr. Eva-Maria Seng**
-Rektorin ABK Stuttgart
+Rektorin ABK Stuttgart <br>
 
-**Jury Members**
-
-Art <br>
-**Dr. Elke Allgaier** & **Ilona Lütken** [Archiv Sohm – Staatsgalerie](https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive)<br>
-
-Science <br>
-**Anja Necker** [Klimaschutzmanagerin der Landes HS Esslingen](https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/klimaschutz-an-hochschulen/klimaschutzmanager)
-
-Design <br>
-**Oliver Krimmel** <br>
-[Freunde der Akademie](https://abk-freunde.de/)
-
-The organisers of **ABK Earth Day** would like to thank the members of the jury and **Freunde der Akademie** for their generous support** <br>
-**• Location** 
+**• Location** <br>
 **• Room** <br>
 **• Time** <br> 
-Description
+**Jury Members**
+**•** Art: **Dr. Elke Allgaier** & **Ilona Lütken** <br>
+[Archiv Sohm – Staatsgalerie](https://www.staatsgalerie.de/de/sammlung/themen/kunstarchive)<br>
+**•** Science: **Anja Necker** <br>
+[Klimaschutzmanagerin der Landes HS Esslingen](https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/klimaschutz-an-hochschulen/klimaschutzmanager)
+**•** Design: **Oliver Krimmel** <br>
+[Freunde der Akademie](https://abk-freunde.de/)
+The organisers of **ABK Earth Day** would like to thank the members of the jury and **Freunde der Akademie** for their generous support** <br>
 
 **↗ [Back to Index](#index)**
 
