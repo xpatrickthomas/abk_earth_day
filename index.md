@@ -127,9 +127,9 @@ In alten Mythen sind Feen und Gnome kleine Waldwesen, die sich liebevoll um ihre
 • Es werden für Kissen und Decken gesorgt als gatheringpoint
 <br>
 
-**♥5. Title** <br>
-By **Name**<br>
-**• Location** <br>
+**♥5. ABK Earth Day Awards Ceremony 🏆** <br>
+**1. Jury member<br>2. Jury member<br>3. Jury member**
+**• Location** 
 **• Room** <br>
 **• Time** <br> 
 Description
