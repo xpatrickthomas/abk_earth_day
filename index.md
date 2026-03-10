@@ -373,31 +373,11 @@ The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansrad
 
 **☆2. Toilet concert** <br>
 By **Mara Donata Ott** <br>
-**• Location** <br>
 **• Altbau** <br>
-**• TBA** <br> 
+**• TBA** <br>
+**• 00:00–00:00**(?) <br> 
 Description will appear here<br>
 
-**☆3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
-
-**☆4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
-
-**☆5. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
 
 **↗ [Back to Index](#index)**
 
