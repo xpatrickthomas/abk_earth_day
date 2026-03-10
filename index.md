@@ -443,6 +443,8 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 **[Press enquiry](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
 **[Sponsorship](mailto:patrick.thomas@abk-stuttgart.de)** ↗ <br>
 
+**↗ [Back to Index](#index)**
+
 ---
 
 ## Credits
