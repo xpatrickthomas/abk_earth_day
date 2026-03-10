@@ -13,7 +13,9 @@
 
 **[ABK Earth Day Map](https://link.earthday.art/abk_earth_day_2026_map) ↗** <br>
 **[Key Events](#key-events) ↗** <br>
+
 **[Credits](#credits) ↗** <br>
+**[Impressum](#impressum) ↗** <br>
 
 ---
 
@@ -470,4 +472,27 @@ Organised by <br>
 **Veronika Aumann** <br>
 
 **↗ [Back to Index](#index)**
+
+---
+
+### Impressum
+
+**Angaben gemäß § 5 TMG** <br>
+Patrick Thomas <br>
+Grimmstraße 18 <br> 
+10967 Berlin <br>
+
+Kontakt <br>
+[patrick.thomas@abk-stuttgart.de](mailto:patrick.thomas@abk-stuttgart.de) <br> 
++49 (0)151 50430994 <br>
+
+**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV** <br>
+Patrick Thomas <br>
+Adresse wie oben <br>
+
+**Haftungsausschluss / Disclaimer** <br>
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
+Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. <br>
+
+**USt-ldNr.: DE295403211** <br>
 
