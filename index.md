@@ -168,13 +168,6 @@ Projektarbeit **Industrial Design – 2. Semester** <br>
 **• 10:00–11:30**(?) <br>
 Sturmflut, Waldbrand, Pandemie. Kein Empfang, kein Strom, kein Klopapier. Das Unerwartete kann jederzeit eintreffen, deshalb gilt: allzeit bereit. <br> Wir beschäftigen uns in der Gestaltungsübung mit kleineren und größeren Katastrophen und damit, wie man im Alltag auf sie vorbereitet sein kann. Ganz konkret geht es um Objekte, die man mit sich führt, die man im Ernstfall nicht missen will. Weniger um nach einem Atomkrieg eine Zivilisation neu aufzubauen, aber vielleicht, um es im feststeckenden Aufzug ein paar Stunden ein bisschen gemütlicher zu haben. Einfache, tragbare, smarte Helfer. <br> Um ein Gefühl für die unterschiedlichen Qualitäten von Ausnahmesituationen zu bekommen, dient die folgende Liste als inhaltlicher Auftakt. Sie deckt das Spektrum von schleichenden klimatischen Veränderungen bis hin zu plötzlichen infrastrukturellen Kollapsen ab:
 
-**♥8. Title** <br>
-By **Name** <br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
-
 **↗ [Back to Index](#index)**
 
 ---
@@ -194,27 +187,6 @@ Organised by **TBA**<br>
 **• Glaskasten** <br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
-
-**♺3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
-
-**♺4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
-
-**♺5. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description
 
 **↗ [Back to Index](#index)**
 
@@ -385,12 +357,12 @@ By **Jerry Ahn**, **Seonha Park** (& **Jessica Lipp**)<br>
 A five-hour sound performance of anxiety, boredom, joy and hope. <br>
 The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
 
-**☆2. Title** <br>
-By **Name**<br>
+**☆2. Toilet concert** <br>
+By **Mara Donata Ott** <br>
 **• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**• Altbau** <br>
+**• TBA** <br> 
+Description will appear here<br>
 
 **☆3. Title** <br>
 By **Name**<br>
