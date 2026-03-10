@@ -487,15 +487,13 @@ Am Weißenhof 1 <br>
 
 **Kontakt** <br>
 [patrick.thomas@abk-stuttgart.de](mailto:patrick.thomas@abk-stuttgart.de) <br> 
-+49 (0)151 50430994 <br>
+Tel.: +49 711 28440-0 <br>
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV** <br>
 Patrick Thomas <br>
 Staatliche Akademie der Bildenden Künste Stuttgart <br>
 Am Weißenhof 1 <br>
 70191 Stuttgart <br>
-
-Tel.: +49 711 28440-0 <br>
 
 **Haftungsausschluss / Disclaimer** <br>
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
