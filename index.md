@@ -436,12 +436,12 @@ Textil und Färbematerial sind gestellt. Achte darauf Arbeitskleidung oder nicht
 Anmeldung vor Ort oder über [Rosa Marlene Altmann](mailto:rosa@juergenaltmann.com) ↗ <br>
 • Teilnehmende: 3 (Min.) / 10 (Max.)<br>
 
-**■3. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**■3. Wunderbare Wollperücken** <br>
+Organised by **Madeleine Badayei** <br>
+**• Altbau** <br>
+**• Raum 110 – Bühnen- und Kostümbildatelier** <br>
+**• 10:00–17:00**(?) <br> 
+Wir machen aus alten Strickpullis süße dumme bunte coole spaßige crazige Perücken<br>
 
 **■4. Bring Your Own Hardware – Linux installation and/or data delete** <br>
 With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
