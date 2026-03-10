@@ -456,9 +456,9 @@ Kanzler ABK Stuttgart <br>
 **• Knud Clasen** <br>
 [Klimaschutzmanager](https://www.abk-stuttgart.de/person/knud-clasen-m-a/) ABK Stuttgart <br>
 
-Technical Assistance
+Technical Assistance <br>
 **• Katja Derr** <br>
-[Atelier Digitale Souveränität]
+**[Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)**
 
 Communication
 **• Kristina Pauli** <br>
