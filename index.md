@@ -485,9 +485,9 @@ Event planning <br>
 **• Marion Butsch** <br>
 
 Campus Management <br>
-**• Thomas Kieninger**
-**• Giuseppe Solarino**
-**• Edith Benedikt**, **Manfred Benedikt**, **Daniel Drechsler**, **Angelo Evangelista**, **Jens Faigle**, **Marc Fischer**, **Christopher Ulmer**
+**• Thomas Kieninger** <br>
+**• Giuseppe Solarino** <br>
+**• Edith Benedikt**, **Manfred Benedikt**, **Daniel Drechsler**, **Angelo Evangelista**, **Jens Faigle**, **Marc Fischer**, **Christopher Ulmer** <br>
 
 **↗ [Back to Index](#index)**
 
