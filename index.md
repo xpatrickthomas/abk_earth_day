@@ -21,6 +21,14 @@
 
 ---
 
+## What is ABK Earth Day?
+
+**Earth Day** is an annual event celebrated worldwide to demonstrate support for environmental protection. On Tuesday 22 April 2026 the third edition of **ABK Earth Day** will take place at ABK Stuttgart Weißenhof Campus. It will be a day of student-led actions and projects continuing to raise environmental awareness at the academy. <br>
+
+**↗ [Back to Index](#index)**
+
+---
+
 ## ★ Actions
 
 **★1. Knitting – Knowledge Transfer** <br>
@@ -435,12 +443,13 @@ By **Name**<br>
 **• Time** <br> 
 Description<br>
 
-**■4. Title** <br>
-By **Name**<br>
-**• Location** <br>
-**• Room** <br>
-**• Time** <br> 
-Description<br>
+**■4. Bring Your Own Hardware – Linux installation and/or data delete** <br>
+With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
+**• Neubau 2** <br>
+**• Raum 0.14 – Atelier Digitale Souveränität** <br>
+**• 11:00–16:00** <br> 
+Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
+**•** Organised by **[Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)** <br>
 
 **■5. Title** <br>
 By **Name**<br>
@@ -469,9 +478,32 @@ Description
 
 ## Credits
 
-Organised by <br>
-**Patrick Thomas** <br>
-**Veronika Aumann** <br>
+**ABK Earth Day**
+**Wednesday 22 April 2026**
+
+Direction & Organisation <br>
+**• Patrick Thomas** <br>
+**• Veronika Aumann** <br>
+
+Consultation <br>
+**• Willem Müller** <br>
+Kanzler ABK Stuttgart <br>
+**• Knud Clasen** <br>
+[Klimaschutzmanager](https://www.abk-stuttgart.de/person/knud-clasen-m-a/) ABK Stuttgart <br>
+
+Technical Assistance
+**• Katja Derr** <br>
+[Atelier Digitale Souveränität]
+
+Communication
+**• Kristina Pauli** <br>
+**• Joana Leite** <br>
+
+Event planning <br>
+**• Marion Butsch** <br>
+
+Next year's edition of ABK Earth Day will
+take place on **Thursday 22 April 2027**
 
 **↗ [Back to Index](#index)**
 
