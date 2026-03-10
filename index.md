@@ -484,6 +484,11 @@ Press & Communication <br>
 Event planning <br>
 **• Marion Butsch** <br>
 
+Campus Management <br>
+**• Thomas Kieninger**
+**• Giuseppe Solarino**
+**• Edith Benedikt**, **Manfred Benedikt**, **Daniel Drechsler**, **Angelo Evangelista**, **Jens Faigle**, **Marc Fischer**, **Christopher Ulmer**
+
 **↗ [Back to Index](#index)**
 
 ---
