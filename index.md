@@ -458,9 +458,11 @@ Kanzler ABK Stuttgart <br>
 
 Technical Assistance <br>
 **• Katja Derr** <br>
+**• Christian Schröter** <br>
+**• Erik Freyer** <br>
 **[Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)**
 
-Communication
+Communication <br>
 **• Kristina Pauli** <br>
 **• Joana Leite** <br>
 
