@@ -168,6 +168,20 @@ Projektarbeit **Industrial Design – 2. Semester** <br>
 **• 10:00–11:30**(?) <br>
 Sturmflut, Waldbrand, Pandemie. Kein Empfang, kein Strom, kein Klopapier. Das Unerwartete kann jederzeit eintreffen, deshalb gilt: allzeit bereit. <br> Wir beschäftigen uns in der Gestaltungsübung mit kleineren und größeren Katastrophen und damit, wie man im Alltag auf sie vorbereitet sein kann. Ganz konkret geht es um Objekte, die man mit sich führt, die man im Ernstfall nicht missen will. Weniger um nach einem Atomkrieg eine Zivilisation neu aufzubauen, aber vielleicht, um es im feststeckenden Aufzug ein paar Stunden ein bisschen gemütlicher zu haben. Einfache, tragbare, smarte Helfer. <br> Um ein Gefühl für die unterschiedlichen Qualitäten von Ausnahmesituationen zu bekommen, dient die folgende Liste als inhaltlicher Auftakt. Sie deckt das Spektrum von schleichenden klimatischen Veränderungen bis hin zu plötzlichen infrastrukturellen Kollapsen ab:
 
+**♥8. Treehugging** <br>
+**All welcome** <br>
+**• Campus** <br>
+**• Garten** <br>
+**• 10:00–20:00** <br> 
+Connect with nature. Hug a tree! <br> 
+
+**♥9. AKAffee** <br>
+**All welcome** <br>
+**• Neubau 1** <br>
+**• Aktionsraum** <br>
+**• 10:00–20:00**(?) <br>
+Description will appear here<br>
+
 **↗ [Back to Index](#index)**
 
 ---
@@ -449,6 +463,7 @@ Either we help you install Linux – great on MacBooks – or we help to delete 
 Direction & Organisation <br>
 **• Patrick Thomas** <br>
 **• Veronika Aumann** <br>
+• ABK Klimaschutz <br>
 
 Consultation <br>
 **• Willem Müller** <br>
@@ -463,8 +478,8 @@ Technical Assistance <br>
 **•** [Atelier Digitale Souveränität](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/)
 
 Press & Communication <br>
-**• [Kristina Pauli](mailto:kristina.pauli@abk-stuttgart.de)** ↗
-**• [Joana Leite](mailto:joana.leite@abk-stuttgart.de>)** ↗
+**• [Kristina Pauli](mailto:kristina.pauli@abk-stuttgart.de)** ↗ <br>
+**• [Joana Leite](mailto:joana.leite@abk-stuttgart.de>)** ↗ <br>
 
 Event planning <br>
 **• Marion Butsch** <br>
