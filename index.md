@@ -488,7 +488,8 @@ Grimmstraße 18 <br>
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV** <br>
 Patrick Thomas <br>
-Adresse wie oben <br>
+Grimmstraße 18 <br> 
+10967 Berlin <br>
 
 **Haftungsausschluss / Disclaimer** <br>
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. 
