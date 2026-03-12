@@ -219,9 +219,9 @@ Description will appear here<br>
 **▣2. Left-over paintings** <br>
 By **Veronika Aumann**<br>
 **• Keramikbau** <br>
-**• Raum 000** <br>
+**• Staircase 1st floor** <br>
 **• 10:00–18:00** <br> 
-Description will appear here<br>
+For (almost…) every single textile project I worked on since my studies, I create a simple DinA4 size art piece with leftover materials from the process. Displayed here are three of the many ›Leftover Paintings‹ from 2013, 2019 and 2026.<br>
 
 **▣3. [Title]** <br>
 By **Textile design department**<br>
