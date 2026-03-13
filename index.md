@@ -17,6 +17,7 @@
 
 **[Key Events](#key-events) ↗** <br>
 **[Public Talks, etc.](#public-talks-etc) ↗** <br>
+**[Eco-Kino](#eco-kino) ↗** <br>
 
 ---
 
