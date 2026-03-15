@@ -276,57 +276,64 @@ Description will appear here<br>
 
 ## ● Installations
 
-**●1. [Title]** <br>
-By **Lisa Wedler & Mira Traub** (Klasse Choi)<br>
+**●1. The only thing I know / I want a lot** 2026 <br>
+By **Lisa Helene Wedler** & **Mira Traub** <br>
+(Klasse Choi)<br>
 **• Neubau 2** <br>
 **• 1.25 – Kopierraum** <br>
 **• 10:00–18:00** <br> 
 Videoprojektion<br>
 
-**●2. [Title]** <br>
-By **Lisa Wedler** (Klasse Choi)<br>
+**●2. Muttererde** 2026 <br>
+By **Lisa Helene Wedler** <br>
+(Klasse Choi) <br>
 **• (Vor dem) Altbau** <br>
 **• Wiese direkt vor dem Haupteingang** <br>
 **• 10:00–18:00** <br> 
 Installation mit verschiedene Erde auf der Wiese<br>
 
-**●3. Lichtermeer (or: Iso. R. 4s14m6M)** <br>
-By **Birk Hinnersmann** (Klasse Choi)<br>
+**●3. Lichtermeer (Iso. R. 4s14m6M)** 2025 <br>
+By **Birk Hinnersmann** <br>
+(Klasse Choi) <br>
 **• Neubau2** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
 **• 10:00–18:00** <br> 
 Holzskulptur mit LEDs, Arduino<br>
 
-**●4. [Title]** <br>
-By **Paula Bother & Rosa Klingelhöfer** (Klasse Choi)<br>
+**●4. telling tales of utopia** 2026 <br>
+By **Paula Bother** & **Rosa Klingelhöfer** <br>
+(Klasse Choi) <br>
 **• Neubau 2** <br>
 **• Foyer** <br>
 **• 10:00–18:00** <br> 
 5 Holzskulpturen mit handgeschöpfte Papiere<br>
 
-**●5. Blau Machen (recycelt)** <br>
+**●5. BLAU MACHEN (recycelt)** 2026 <br>
 By **Klasse Choi**<br>
 **• Altbau** <br>
 **• Raum 223** <br>
 **• 10:00–20:00** <br> 
 Description will appear here
 
-**●6. [Title]** <br>
-By **Ava Will** (Klasse Choi)<br>
+**●6. Einkehr** 2025 <br>
+By **Ava Will** <br>
+(Klasse Choi) <br>
 **• AKA-Garten** <br>
 **• (Vor dem) Glaskasten** <br>
 **• 10:00–18:00** <br> 
 Schneckenförmige Skulptur aus Stahl, bedeckt mit Erde und Moos
 
-**●7. Project title: This Could Be Us (at)** <br>
-By **Lorenzo Mastrosimone** (Klasse Choi)<br>
+**●7. This Could Be Us** 2026 <br>
+By **Lorenzo Mastrosimone** <br>
+(Klasse Choi) <br>
 **• Altbau** <br>
 **• Alte Aula(?)** <br>
 **• 10:00–20:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
 
-**●8. [Title]** <br>
-By **Dietke Hellwig** (Klasse Choi)<br>
+**●8. Hause** 2025 <br>
+By **Dietke Hellwig** <br>
+(Klasse Choi) <br>
 **• Neubau 2** <br>
 **• Graben(?)** <br>
 **• 10:00–18:00** <br> 
