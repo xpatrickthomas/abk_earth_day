@@ -109,6 +109,15 @@ By the **Textile design department**<br>
 
 **↗ [Back to Index](#index)**
 
+**★11. Achtung Baustelle!** <br>
+Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, **Konrad Elser**, **Cosima Zwade**& **Loris Schloeder** <br>
+**• Campus** <br>
+**• im Hof** <br>
+**• 11:00–13:00** <br> 
+Stuttgart braucht noch eine weitere Baustelle. Bau deinen Stuhl aus Schutt und setze dich zu uns. Dein Spatenstich für eine grünere AKA. Jeder versteigerte Stuhl bringt neue Pflanzen an den Campus. <br>
+
+**↗ [Back to Index](#index)**
+
 ---
 
 ## ♥ Activities
@@ -186,7 +195,7 @@ Connect with nature. Hug a tree! <br>
 **• Neubau 1** <br>
 **• Aktionsraum** <br>
 **• 10:00–20:00**(?) <br>
-Description will appear here<br>
+Description will appear here <br>
 
 **↗ [Back to Index](#index)**
 
