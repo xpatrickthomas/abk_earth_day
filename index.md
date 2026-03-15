@@ -110,7 +110,7 @@ By the **Textile design department**<br>
 **↗ [Back to Index](#index)**
 
 **★11. Achtung Baustelle!** <br>
-Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, **Konrad Elser**, **Cosima Zwade**& **Loris Schloeder** <br>
+Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, **Konrad Elser**, **Cosima Zwade** & **Loris Schloeder** <br>
 **• Campus** <br>
 **• im Hof** <br>
 **• 11:00–13:00** <br> 
