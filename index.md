@@ -87,10 +87,10 @@ Organised by **Michaela Wirsig**<br>
 A friendly information point featuring the 17 UN Development Goals and current sustainable projects that are thematically related to ABK Stuttgart
 
 **★8. [Title]** <br>
-By **[Jack Taylor](https://www.jacktaylor.eu/)** & **[Jay Wright](https://jaydanielwright.com)** <br>
-**• Campus** <br>
-**• Campus Weißenhof** <br>
-**• 10:00–18:00** <br> 
+By **TBC** <br>
+**• TBC** <br>
+**• TBC** <br>
+**• TBC** <br> 
 Description will appear here
 
 **★9. Kippenmüll** <br>
