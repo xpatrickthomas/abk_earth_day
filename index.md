@@ -476,7 +476,7 @@ Description will appear here<br>
 | 14:00–<br>14:25 | Vortrag/Talk<br>DE      | **Sustainable paper production** (prov.)<br>Speaker: **Axel Scheufelen**, [Metapaper](https://www.metapaper.io/) ↗       |         |
 | 14:30–<br>14:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
-| 15:30–<br>15:55 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far**<br>Speaker: **Oona Leganovic**, CCC Löhrbach     |       | 
+| 15:30–<br>15:55 | Vortrag/Talk<br>DE      | **A few thoughts I stole that have helped me to face the climate crisis so far**<br>Speaker: **Oona Leganovic**, CCC Löhrbach<br> [Chaos Computer Club](https://berlin.ccc.de/)     |       | 
 | 16:00–<br>16:25 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 | 16:30–<br>16:55 | Vortrag/Talk<br>DE      |                                                                                             |                  | 
 
