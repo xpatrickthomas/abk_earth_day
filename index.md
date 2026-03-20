@@ -32,7 +32,7 @@
 
 **Earth Day** is an annual event celebrated worldwide to demonstrate support for environmental protection. On Tuesday 22 April 2026 the third edition of **ABK Earth Day** will take place at ABK Stuttgart Weißenhof Campus. It will be a day of student-led actions and projects continuing to raise environmental awareness at the academy. <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
