@@ -21,6 +21,7 @@
 
 ---
 
+**[QR Codes](#qr-codes) ↗** <br>
 **[Contact](#contact) ↗** <br>
 **[Credits](#credits) ↗** <br>
 **[Impressum](#impressum) ↗** <br>
