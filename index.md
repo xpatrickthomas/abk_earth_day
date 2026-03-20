@@ -561,11 +561,10 @@ Campus Cleaning Personnel <br>
 
 ---
 
-**[QR code: Map](images/abk_earth_day_2026_map.png)** ↗ <br>
-**[QR code: Itinerary](images/abk_earth_day_2026_itinerary.png)** ↗
+## QR Codes
 
-**[QR code: Itinerary](https://github.com/xpatrickthomas/abk_earth_day_2026/blob/main/images/abk_earth_day_2026_itinerary.png)** ↗
-
+**[Map](images/abk_earth_day_2026_map.png)** ↗ <br>
+**[Itinerary](images/abk_earth_day_2026_itinerary.png)** ↗
 
 ---
 
