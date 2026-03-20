@@ -561,7 +561,7 @@ Campus Cleaning Personnel <br>
 
 ---
 
-[My Image](abk_earth_day_2026/abk_earth_day_2026_map.png)
+[My Image](images/abk_earth_day_2026_itinerary.png)
 
 ---
 
