@@ -108,8 +108,6 @@ By the **Textile design department**<br>
 **• 08:00–23:59** <br> 
 “Leave no trace” intervention on the academy flags
 
-**↗ [Back to Index](#index)**
-
 **★11. Achtung Baustelle!** <br>
 Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, **Konrad Elser**, **Cosima Zwade** & **Loris Schloeder** <br>
 **• Campus** <br>
@@ -117,7 +115,7 @@ Organised by **Paul Hanke** & **Pia Zerweck**<br>Participant/s: **Lovis Wolf**, 
 **• 11:00–13:00** <br> 
 Stuttgart braucht noch eine weitere Baustelle. Bau deinen Stuhl aus Schutt und setze dich zu uns. Dein Spatenstich für eine grünere AKA. Jeder versteigerte Stuhl bringt neue Pflanzen an den Campus. <br>
 
-**↗ [Back to Index](#index)**
+**↖ [Back to Index](#index)**
 
 ---
 
