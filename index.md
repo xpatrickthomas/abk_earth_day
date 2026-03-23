@@ -342,8 +342,8 @@ By **Ava Will** <br>
 **●7. This Could Be Us**, 2026 <br>
 By **Lorenzo Mastrosimone** <br>
 (Klasse Choi) <br>
-**• Altbau** <br>
-**• Alte Aula(?)** <br>
+**• Bildhauerbau** <br>
+**• Raum 35A – Steinwerkstatt** <br>
 **• 10:00–20:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
 
