@@ -445,9 +445,9 @@ With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
 Either we help you install Linux – great on MacBooks – or we help to delete your data and guide you to trashing it safely.<br>
 **•** Organised by **Atelier Digitale Souveränität** <br>
 
-**■3. Nie wieder langweilige Taschen und T-Shirts!** <br>
+**■5. Nie wieder langweilige Taschen und T-Shirts!** <br>
 Organised by **Marisa Sitzler**<br>
-**• Offen für alle**
+**• Offen für alle** <br>
 **• Neubau 2** <br>
 **• Raum 1.15** <br>
 **• 10:00–18:00**(?) <br> 
