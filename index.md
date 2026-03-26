@@ -298,7 +298,7 @@ By **Lisa Helene Wedler** & **Mira Traub** <br>
 **• Neubau 2** <br>
 **• 1.25 – Kopierraum** <br>
 **• 10:00–18:00** <br> 
-[DE/EN] Short description will appear here<br>
+Video projection: contrasts the fragility of the body with man-made destruction, creating tension between vulnerability and power.<br>
 
 **●2. Muttererde**, 2026 <br>
 By **Lisa Helene Wedler** <br>
@@ -306,7 +306,7 @@ By **Lisa Helene Wedler** <br>
 **• (Vor dem) Altbau** <br>
 **• Wiese direkt vor dem Haupteingang** <br>
 **• 10:00–18:00** <br> 
-[DE/EN] Short description will appear here<br>
+Installation verschiedener Erden auf dem Rasen verweist auf eine ursprüngliche, archetypische Erde und eine Welt in der ebendiese nicht mehr genügt – jene Erde, mit der alles begann.<br>
 
 **●3. Lichtermeer (Iso. R. 4s14m6M)**, 2025 <br>
 By **Birk Hinnersmann** <br>
@@ -314,7 +314,7 @@ By **Birk Hinnersmann** <br>
 **• Neubau2** <br>
 **• Raum 01.17 – Video-/ Foto-Aufnahmestudio** <br>
 **• 10:00–18:00** <br> 
-[DE/EN] Short description will appear here<br>
+Eine Installation aus Holz und programmierte LEDs, die visuellen Einflüsse des Menschen auf dem Meer bei Nacht widerspiegeln.<br>
 
 **●4. telling tales of utopia**, 2026 <br>
 By **Paula Bother** & **Rosa Klingelhöfer** <br>
@@ -322,14 +322,14 @@ By **Paula Bother** & **Rosa Klingelhöfer** <br>
 **• Neubau 2** <br>
 **• Foyer** <br>
 **• 10:00–18:00** <br> 
-[DE/EN] Short description will appear here<br>
+Eine Installation aus selbstgeschöpften Papieren, eingelassen in eine Holzkonstruktion. Die Arbeit beschäftigt sich mit politischen Umbrüchen, die nach Farben und Blumen benannt sind. <br>
 
 **●5. BLAU MACHEN (recycelt)**, 2026 <br>
 By **Klasse Choi**<br>
 **• Altbau** <br>
 **• Raum 223** <br>
 **• 10:00–20:00** <br> 
-[DE/EN] Short description will appear here<br>
+Eine Rauminstallation, die mit wiederverwendetem Material ein Atelier in unwirkliches Licht taucht und zum Blaumachen einlädt. Eine subversiv reflektierte Geste und künstlerische Haltung zugleich.<br>
 
 **●6. Einkehr**, 2025 <br>
 By **Ava Will** <br>
@@ -337,7 +337,7 @@ By **Ava Will** <br>
 **• AKA-Garten** <br>
 **• (Vor dem) Glaskasten** <br>
 **• 10:00–18:00** <br> 
-[DE/EN] Short description will appear here<br>
+Ein begehbares Schneckengehäuse, umhüllt von Naturmaterialien, die den Übergang vom Winter zum erwachenden Frühling widerspiegeln und sich in die Umgebung einfügen. <br>A walkable snail shell, enveloped in natural materials that reflect the transition from winter to spring’s awakening and merge with the environment. <br>
 
 **●7. This Could Be Us**, 2026 <br>
 By **Lorenzo Mastrosimone** <br>
@@ -345,7 +345,7 @@ By **Lorenzo Mastrosimone** <br>
 **• Bildhauerbau** <br>
 **• Raum 35A – Steinwerkstatt** <br>
 **• 10:00–20:00** <br> 
-A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment.
+A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment. <br>
 
 **●8. TBC**, TBC <br>
 By **TBC** <br>
