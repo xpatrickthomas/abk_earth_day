@@ -489,7 +489,7 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 | 14:30–<br>14:55 | Vortrag/Talk<br>DE      | **Yoko Ono / Fluxus** (prov.)<br>**[Georg Winter](https://www.hbksaar.de/personen/details/winter)** ↗ <br>Hochschule der Bildenden Künste Saar | Description will appear here |
 | 15:00–<br>15:25 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
 | 15:30–<br>15:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here | 
-| 16:00–<br>16:25 | Vortrag/Talk<br>DE      | **We Are Climate Neutral: How to Properly Recycle E-Scooters<br>An Artistic Intervention in Platform Capitalism**<br>**Anton Linus** ↗ <br>Meisterschüler des Weißenhof-Programms<br>[Digitale Souveränität für Kunsthochschulen (DSK)](https://www.abk-stuttgart.de/news/abk-stuttgart-hfg-karlsruhe-und-kunstakademie-karlsruhe-erhalten-foerderung-im-rahmen-der-ausschreibung-lehrarchitektur/) ↗ | Description will appear here | 
+| 16:00–<br>16:25 | Vortrag/Talk<br>DE      | **We Are Climate Neutral: How to Properly Recycle E-Scooters<br>An Artistic Intervention in Platform Capitalism**<br>**Anton Linus** ↗ <br>Meisterschüler des Weißenhof-Programms<br>Digitale Souveränität für Kunsthochschulen (DSK) | Description will appear here | 
 | 16:30–<br>16:55 | Vortrag/Talk<br>DE      |                                                                                             | Description will appear here |
 
 **↖ [Back to Index](#index)**
