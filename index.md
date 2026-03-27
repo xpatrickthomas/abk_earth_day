@@ -290,7 +290,7 @@ We visit a local recycling facility. We document it in sound only. We make acous
 By **Max Reichert** & **Luis Schulte Kellinghaus**<br>
 With support from **Johannes Oestringer**<br>
 **• Altbau** <br>
-**• Raum 117/120 – Print Lab** <br>
+**• ABK Print Lab** **– Raum 117/120**<br>
 **• 10:00–17:00** <br> 
 A behind-the-scenes look into the creation of the iconic DIN A0 Letterpress Earth Day poster.<br>
 
