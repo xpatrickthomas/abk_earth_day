@@ -294,6 +294,14 @@ With support from **Johannes Oestringer**<br>
 **• 10:00–17:00** <br> 
 A behind-the-scenes look into the creation of the iconic DIN A0 Letterpress Earth Day poster.<br>
 
+**▣11. ONE WORD POSTERS** <br>
+Organised by **Johannes Oestringer** & **Stefanie Schwarz** <br>
+Participants **Gabriella Bakos**, **Daria Frees**, **Paula Gospodnetic** & **Vanessa Herbert** <br>
+**• Altbau** <br>
+**• ABK Print Lab** & **ABK Type Lab** **– Raum 117/120**<br>
+**• 06:00–23:55** <br> 
+A series of letterpress printed type posters. A collaboration between **ABK Type Lab** & **ABK Print Lab**.<br>
+
 **↖ [Back to Index](#index)**
 
 ---
