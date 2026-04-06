@@ -495,8 +495,7 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 ---
 
 ## Public Talks, etc.
-**• Neubau 2** <br>
-**• Vortragssaal** <br>
+**• Neubau 2 – Vortragssaal** <br>
 **• 10:00–17:00** <br> 
 
 [Programme coming soon]
