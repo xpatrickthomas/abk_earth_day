@@ -520,15 +520,12 @@ Mit dem MiScreen kannst du instant A4-Drucksiebe herstellen und damit alles mög
 ## Eco-Kino
 Curated by **Carsten Fuhrmann** <br>
 Künstlerisch-technischer Lehrer in der Werkstatt für Audiovision und Video im Studiengang Kommunikationsdesign in der Fachgruppe Design <br>
-**• Neubau 2** <br>
-**• Vortragssaal** <br>
+**• Neubau 2 – Vortragssaal** <br>
 **• 18:00–20:00** <br> 
 Description will appear here<br>
 
 | Time                | Title                      | Description               | Year       |
 | :------------       | :------------              | :-------------------      | :------    | 
-| 00:00–00:00         |                            |                           |            | 
-| 00:00–00:00         |                            |                           |            | 
 | 00:00–00:00         |                            |                           |            | 
 | 00:00–00:00         |                            |                           |            | 
 | 00:00–00:00         |                            |                           |            | 
