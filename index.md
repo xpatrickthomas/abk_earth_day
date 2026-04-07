@@ -410,13 +410,13 @@ Coordination **Patrick Thomas** & **Veronika Aumann** <br>
 
 **●13. ich moechte schreien** 2023, 2025, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
-**• Bildhauergarten** <br>
+With assistance from **Shinroku Shimokawa** <br>
+**• Bildhauergarten** 
 **• Steinwerkstatt (außen/outside)** <br>
 **• 10:00–22:00** <br>
 [DE] In einem ressourcenbegrenzten Ökosystem ist exponentielles Wachstum nicht möglich. Druck, der sich im Inneren aufbaut, spüren wir lange bevor wir ihn ausbrechen sehen. <br>
 [EN] In an ecosystem with limited resources, exponential growth is not possible. We feel the pressure building up inside long before we see it erupt. <br>
 Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, headphones. Dimensions: Variable <br>
-With assistance from **Shinroku Shimokawa** 
 
 **↖ [Back to Index](#index)**
 
