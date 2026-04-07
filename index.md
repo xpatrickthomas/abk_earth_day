@@ -305,9 +305,18 @@ A behind-the-scenes look into the creation of the iconic DIN A0 Letterpress Eart
 Organised by **Johannes Oestringer** & **Stefanie Schwarz** <br>
 Participants **Gabriella Bakos**, **Daria Frees**, **Paula Gospodnetic** & **Vanessa Herbert** <br>
 **• Altbau** <br>
-**• ABK Print Lab** & **ABK Type Lab** **– Raum 117/120**<br>
+**• ABK Print Lab** & **ABK Type Lab** **– Raum 117/120** <br>
 **• 06:00–23:55** <br> 
 A series of letterpress printed type posters. A collaboration between **ABK Type Lab** & **ABK Print Lab**.<br>
+
+**▣12. An Object That Changed My Life** <br>
+By **Patrick Thomas** after **Eduardo Paolozzi** <br>
+**• Neubau 2** <br>
+**• Raum 1.12** <br>
+**• 10:00–20:00** <br> 
+Kerosene lamp made from an electric light bulb and tin can. Anonymous. Kumase, Ghana. <br>
+“Outside the realm of the auction houses, humble instruments for survival made from those very objects which every large city discharges into bottomless pits by the ton.” Eduardo Paolozzi, London 1985 <br>
+Pick up a Risograph edition that tells the story of how an anonymous object from an exhibition at London’s Museum of Mankind left a lasting impression on an art student from Saint Martins School of Art. <br>
 
 **↖ [Back to Index](#index)**
 
