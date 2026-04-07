@@ -453,6 +453,14 @@ grumbling, rumbling, trembling, humming, flowing, aching, thriving <br>
 and so am I <br>
 alive <br>
 
+**●16. “For the Young Artist…”** <br>
+By **Patrick Thomas** after **Eduardo Paolozzi** <br>
+**• Neubau 2** <br>
+**• Graben** <br>
+**• 10:00–20:00** <br> 
+Handwritten text on wall. Recreation of a statement addressed to art students by Eduardo Paolozzi. London, 1985 <br>
+
+
 **↖ [Back to Index](#index)**
 
 ---
