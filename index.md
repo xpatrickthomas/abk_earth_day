@@ -421,7 +421,7 @@ Time-based installation. Lime stone, calcium oxide (burnt lime), microphones, he
 **●14. ich moechte schreien** 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>
 **• Bildhauergarten** <br>
-**• Draußen, Wiese vor Bildhauerbau, unter den Bäumen**
+**• Draußen, Wiese vor Bildhauerbau, unter den Bäumen** <br>
 **• Outside, lawn in front of Bildhauerbau, under the trees** <br>
 **• 12:00–17:00** <br>
 Participative sound installation. Embroidered fabric 4x6m, microphone/ field recorder, headphones <br>
