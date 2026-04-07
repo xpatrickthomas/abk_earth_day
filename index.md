@@ -410,7 +410,8 @@ Coordination **Patrick Thomas** & **Veronika Aumann** <br>
 
 **●13. ich moechte schreien** 2023, 2025, 2026 <br>
 By **[Lea Mina Rossatti](https://leaminarossatti.de)** ↗ <br>  
-Assistance **Shinroku Shimokawa**
+**• Bildhauergarten** <br>
+Assistance **Shinroku Shimokawa** 
 **• Bildhauergarten** <br>
 **• Steinwerkstatt (außen/outside)** <br>
 **• 10:00–22:00** <br>
