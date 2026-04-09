@@ -233,7 +233,7 @@ Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800874/9.173777)** ↗ <br>
 
-**11. Lagerfeuer**
+**11. Lagerfeuer** <br>
 Organised by **Paula Laible** & **Maya Beckbissinger** <br>
 Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• ABK-Garten** <br>
@@ -241,7 +241,7 @@ Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800866/9.173689)** ↗ <br>
 
-**12. Gartenzwerge**
+**12. Gartenzwerge** <br>
 Organised by **Paula Laible** <br>
 Participants: **Gartenzwerge**, **alle sind willkommen!** 
 **• ABK-Garten** <br>
