@@ -147,7 +147,7 @@ Die Omas for Future Stuttgart unterstützen das Mitmach-Kunstprojekt ARTagainstE
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800627/9.175274)** ↗ <br>
 
 **★14. Bioplastic Textile Research** <br>
-Organised by **Jisol Lee** & **Charlotte Lydia Wahl** ↗ <br>
+Organised by **Jisol Lee** & **Charlotte Lydia Wahl** <br>
 **• Neubau 2** <br>
 **• Lobby** <br>
 **• 13:00–** <br> 
