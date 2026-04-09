@@ -143,7 +143,7 @@ Organised by **[Omas4Future Stuttgart](https://omasforfuture.de/regionalgruppen/
 **• 13:00–17:00** <br> 
 **• Alle sind eingeladen**
 Die Omas for Future Stuttgart unterstützen das Mitmach-Kunstprojekt ARTagainstECOCIDE für Biodiversität, Gerechtigkeit und gesetzliche Veränderungen mit Häkelnadel und Wollfaden **[Mehr Infos](artagainstecocide.de/mitmachkunst-haekeln)** ↗ <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800627/9.175274)** ↗ <br>
 
 
 **↖ [Back to Index](#index)**
