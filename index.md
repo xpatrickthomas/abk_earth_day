@@ -146,6 +146,13 @@ Organised by **[Omas4Future Stuttgart](https://omasforfuture.de/regionalgruppen/
 Die Omas for Future Stuttgart unterstützen das Mitmach-Kunstprojekt ARTagainstECOCIDE für Biodiversität, Gerechtigkeit und gesetzliche Veränderungen mit Häkelnadel und Wollfaden **[Mehr Infos](artagainstecocide.de/mitmachkunst-haekeln)** ↗ <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800627/9.175274)** ↗ <br>
 
+**★14. Bioplastic Textile Research** <br>
+Organised by **Jisol Lee** & **Charlotte Lydia Wahl** ↗ <br>
+**• Neubau 2** <br>
+**• Lobby** <br>
+**• 13:00–** <br> 
+Forschung zu Bioplastik für nachhaltige Textilien entwickelt umweltfreundliche Materialien, die fossile Rohstoffe ersetzen und Recycling sowie biologische Abbaubarkeit fördern <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800329/9.175510)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
