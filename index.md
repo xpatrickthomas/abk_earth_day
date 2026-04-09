@@ -261,10 +261,9 @@ Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanz
 
 **♥13. Zukunftsquiz** <br>
 Organised by **Omas4Future Böblingen/Sindelfingen** (AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
-Participants: **Gartenzwerge**, **alle sind willkommen!** 
+**• Alle sind eingeladen** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
-**• Alle sind eingeladen** <br>
 Einblick in das Online Zukunftsquiz der OmasForFuture. **[Mehr Infos](https://www.zukunftsquiz.de)** ↗ <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
