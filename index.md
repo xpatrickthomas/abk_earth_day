@@ -226,20 +226,20 @@ Description will appear here <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800550/9.174535)** ↗ <br>
 
 **10. Wilkräuterwanderung und Lagerfeuer** <br>
-Organised by **Paula Laible**, **Maya Beckbissinger** <br>
-Participants: **ABK Gartenzwerge**, alle, die wollen! <br>
+Organised by **Paula Laible** & **Maya Beckbissinger** <br>
+Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• 15:00 Treffpunkt im ABK-Garten, Spaziergang am Killesberg** <br>
 **• ab 18:00 Lagerfeuer im ABK-Garten** <br>
 Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800920/9.173714)** ↗ <br>
 
-**11.**
-Organised by **Paula Laible** & **Maya Beckbissinger** <br>
-Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
-**• Treffpunkt im ABK-Garten** <br>
-**• Spaziergang am Killesberg** <br>
-**• Lagerfeuer im ABK-Garten** <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**11. Gartenzwerge**
+Organised by **Paula Laible** <br>
+Participants: **Gartenzwerge**, **alle sind willkommen!** 
+**• ABK-Garten** <br>
+**• ab 11:00** <br>
+Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanzen und in der Wiese sitzen.
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800908/9.173569)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
