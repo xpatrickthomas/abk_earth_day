@@ -556,7 +556,7 @@ By **Patrick Thomas** after **Eduardo Paolozzi** <br>
 Handwritten text on wall. Recreation of a statement addressed to art students by Eduardo Paolozzi. London, 1985 <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
-**●17. Xxx** <br>
+**●17. O4F: Klimazeitstrahl** <br>
 Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
 (AnsprechpartnerInnen: Jutta Rau & Karl-Heinz Rau) <br>
 **• Im Hof (vor dem Neubau 1 – Glaskasten)** <br>
