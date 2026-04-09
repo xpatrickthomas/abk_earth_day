@@ -225,9 +225,21 @@ Connect with nature. Hug a tree! <br>
 Description will appear here <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800550/9.174535)** ↗ <br>
 
-10
+**10. Wilkräuterwanderung und Lagerfeuer** <br>
+Organised by **Paula Laible**, **Maya Beckbissinger** <br>
+Participants: **ABK Gartenzwerge**, alle, die wollen! <br>
+**• 15:00 Treffpunkt im ABK-Garten, Spaziergang am Killesberg** <br>
+**• ab 18:00 Lagerfeuer im ABK-Garten** <br>
+Um die ABK herum wachsen viele Wildkräuter, an denen wir täglich vorbeilaufen. Wir sammeln für eine Kräuterbutter, die abends bei Stockbrot am Lagerfeuer genossen wird. <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
-11
+**11.**
+Organised by **Paula Laible**, **Maya Beckbissinger** <br>
+Participants: **ABK Gartenzwerge**, alle, die wollen! <br>
+**• Treffpunkt im ABK-Garten** <br>
+**• Spaziergang am Killesberg** <br>
+**• Lagerfeuer im ABK-Garten** <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
