@@ -655,6 +655,15 @@ Komm am Earth Day vorbei und teile deine Gedanken. Du kannst bleiben, solange du
 Wenn du dich länger austoben möchtest, vergiss nicht: Kohle hinterlässt Spuren…  auch auf den Klamotten:)<br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
+**■7. abk– interdisziplinär Färbergarten** <br>
+Organised by **Wibke Neugebauer** & **Daniela Schöpflin**<br>
+**• Between Akafee and KWR Pavillon** <br>
+**• Raised beds with roses** <br>
+**• 13:00–14:00**(?) <br> 
+“Kick-off” meeting for the **abk– interdisziplinär Färbergarten-workshop** on ecoprint dyeing. Blockseminar: 15–17 May 2026; registration for the workshop is still open until 12 April 2026 (see Vorlesungsverzeichnis) <br> 
+Participant/s: Students already registered for the „Färbergarten“ workshop in May + anyone who is interested in joining the Färbergarten group.<br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
+
 **■X. Title** <br>
 Xx by **Xx Xx**<br>
 **• Xx** <br>
