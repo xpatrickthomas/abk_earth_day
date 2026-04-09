@@ -260,7 +260,7 @@ Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanz
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800858/9.173612)** ↗ <br>
 
 **♥13. Zukunftsquiz** <br>
-Organised by **Omas4Future Böblingen/Sindelfingen** (AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
+Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ (AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
 **• Alle sind eingeladen** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
