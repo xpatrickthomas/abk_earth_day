@@ -66,12 +66,14 @@ By **Michael Daniel, ID students**<br>
 **• 10:00–17:00** <br> 
 Description will appear here<br>
 
-**★5. [Title]** <br>
-By **Organiser’s name**<br>
-**• Werkstattbau** <br>
-**• Raum 000** <br>
-**• 10:00–17:00** <br> 
-Description will appear here<br>
+**★5. [Cakes for Apes](https://www.cakes4apes.org/about/)** 🙉 ↗ <br>
+Organised by **Aleyna Cäcilia Kohl** & **Kathleen Bäcker**<br>
+**• Neubau 1** <br>
+**• Aktionsraum** <br>
+**• 12:00–17:00** <br> 
+What is Cakes for Apes?<br>
+A global fundraiser initiated to help save orangutans and bake the world a better place!<br>
+Proceeds will be donated to **[International Animal Rescue](https://www.cakes4apes.org/international-animal-rescue/)** ↗ to fund their work rescuing orangutans and protecting their vital rainforest habitats. <br>
 
 **★6. [Title]** <br>
 By **Organiser’s name**<br>
