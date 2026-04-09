@@ -262,7 +262,7 @@ Interdisziplinär. Den ganzen Tag findest du uns im Garten beim Umgraben, Pflanz
 
 **♥13. Zukunftsquiz** <br>
 Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
-(AnsprechpartnerInnen: Jutta Rau, Karl-Heinz Rau) <br>
+(AnsprechpartnerInnen: Jutta Rau & Karl-Heinz Rau) <br>
 **• Alle sind eingeladen** <br>
 **• Neubau 1** <br>
 **• Glaskasten** <br>
@@ -554,6 +554,14 @@ By **Patrick Thomas** after **Eduardo Paolozzi** <br>
 **• Graben** <br>
 **• 10:00–20:00** <br> 
 Handwritten text on wall. Recreation of a statement addressed to art students by Eduardo Paolozzi. London, 1985 <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+
+**●17. Xxx** <br>
+Organised by **[Omas4Future Böblingen/Sindelfingen](https://omasforfuture.de/regionalgruppen/sindelfingen-boeblingen/)** ↗ <br>
+(AnsprechpartnerInnen: Jutta Rau & Karl-Heinz Rau) <br>
+**• Im Hof (vor dem Neubau 1 – Glaskasten)** <br>
+**• 13:00–17:00** <br> 
+Ein 27 Meter langer Klimazeitstrahl mit Erläuterung zur Entwicklung des Klimas und der Klimaforschung der letzten 100 Jahre <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **↖ [Back to Index](#index)**
