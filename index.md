@@ -654,13 +654,11 @@ Anmeldung vor Ort oder über [Rosa Marlene Altmann](mailto:rosa@juergenaltmann.c
 • Teilnehmende: 3 (Min.) / 10 (Max.)<br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.173780)** ↗ <br>
 
-**■3. Wunderbare Wollperücken** <br>
-Organised by **Madeleine Badayei** <br>
-**• Altbau** <br>
-**• Raum 110 – Bühnen- und Kostümbildatelier** <br>
-**• 10:00–17:00**(?) <br> 
-Wir machen aus alten Strickpullis süße dumme bunte coole spaßige crazige Perücken<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.799969/9.174271)** ↗ <br>
+**■3. TBA** <br>
+**• TBA** <br>
+**• TBA** <br>
+**• TBA** <br>
+**• 00:00–10:00**(?) <br> 
 
 **■4. Bring Your Own Hardware – Linux installation and/or data delete** <br>
 With **Anton Linus Schwarz** & **Atelier Digitale Souveränität**<br>
