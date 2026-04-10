@@ -222,8 +222,8 @@ Organised by <br>
 AM **David Gebka**, & AM **Max Neustadt** <br>
 Projektarbeit **Industrial Design – 2. Semester** <br>
 **• Neubau 2** <br>
-**• UG.1 Raum 01.12 – Jo’s Kino**(?) <br>
-**• 11:00–12:30**(?) <br>
+**• UG.1 Raum 01.12 – Jo’s Kino** <br>
+**• 11:00–12:30** <br>
 Studierende des 2. Semesters Industrial Design präsentieren ihre Recherchen zu zehn Krisenszenarien – von Sturmflut über Pandemie bis Waldbrand. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800706/9.175433)** ↗ <br>
 
