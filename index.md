@@ -495,7 +495,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• TBA** <br>
 **• 10:00–20:00** <br> 
 Tetraedrical tent <br>
-“All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel* <br>
+“All birds are in fact just campers, who set up their tent each year in spring to raise their young.” ***Chris Kabel*** <br>
 Coordinated by **David Gebka** <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800305/9.175276)** ↗ <br>
 
