@@ -75,8 +75,8 @@ Organised by **Aleyna Cäcilia Kohl** & **Kathleen Bäcker**<br>
 **• Neubau 1** <br>
 **• Aktionsraum** <br>
 **• 12:00–17:00** <br> 
-What is Cakes for Apes?<br>
-A global fundraiser initiated to help save orangutans and bake the world a better place!<br>
+What is Cakes for Apes? <br>
+Come by and enjoy a piece of cake while supporting a fundraiser to save orangutans!<br>
 Proceeds will be donated to **[International Animal Rescue](https://www.cakes4apes.org/international-animal-rescue/)** ↗ to fund their work rescuing orangutans and protecting their vital rainforest habitats. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800516/9.174542)** ↗ <br>
 
