@@ -495,7 +495,8 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• TBA** <br>
 **• 10:00–20:00** <br> 
 Tetraedrical tent <br>
-“All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel*
+“All birds are in fact just campers, who set up their tent each year in spring to raise their young.” *Chris Kabel* <br>
+Coordinated by **David Gebka** <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800305/9.175276)** ↗ <br>
 
 **●11. Binderklinker** <br>
@@ -505,6 +506,7 @@ By **[Chris Kabel](https://www.chriskabel.com/)** <br>
 **• 10:00–18:00** <br> 
 The Dutch word “Klinker” means sintered brick. Developed to inspire inhabitants to guide plants along the façades of their dwellings, the special bricks may be embedded in walls, each having a hole that allows plants to be attached with a cord.<br>
 **[More information](https://www.chriskabel.com/Binder-Klinker)** ↗ <br>
+Coordinated by **David Gebka** <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800943/9.175057)** ↗ <br>
 
 **●12. C-KLT 6428 – Multi-use Modular Construction System** <br>
