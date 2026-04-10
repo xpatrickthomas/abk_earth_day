@@ -223,8 +223,8 @@ AM **David Gebka**, & AM **Max Neustadt** <br>
 Projektarbeit **Industrial Design – 2. Semester** <br>
 **• Neubau 2** <br>
 **• UG.1 Raum 01.12 – Jo’s Kino**(?) <br>
-**• 10:00–11:30**(?) <br>
-Sturmflut, Waldbrand, Pandemie. Kein Empfang, kein Strom, kein Klopapier. Das Unerwartete kann jederzeit eintreffen, deshalb gilt: allzeit bereit. <br> Wir beschäftigen uns in der Gestaltungsübung mit kleineren und größeren Katastrophen und damit, wie man im Alltag auf sie vorbereitet sein kann. Ganz konkret geht es um Objekte, die man mit sich führt, die man im Ernstfall nicht missen will. Weniger um nach einem Atomkrieg eine Zivilisation neu aufzubauen, aber vielleicht, um es im feststeckenden Aufzug ein paar Stunden ein bisschen gemütlicher zu haben. Einfache, tragbare, smarte Helfer. <br> Um ein Gefühl für die unterschiedlichen Qualitäten von Ausnahmesituationen zu bekommen, dient die folgende Liste als inhaltlicher Auftakt. Sie deckt das Spektrum von schleichenden klimatischen Veränderungen bis hin zu plötzlichen infrastrukturellen Kollapsen ab: <br>
+**• 11:00–12:30**(?) <br>
+Studierende des 2. Semesters Industrial Design präsentieren ihre Recherchen zu zehn Krisenszenarien – von Sturmflut über Pandemie bis Waldbrand. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800706/9.175433)** ↗ <br>
 
 **♥8. Treehugging** <br>
