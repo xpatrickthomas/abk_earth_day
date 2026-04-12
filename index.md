@@ -155,7 +155,7 @@ Forschung zu Bioplastik für nachhaltige Textilien entwickelt umweltfreundliche 
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800329/9.175510)** ↗ <br>
 
 **★15. Risograph Limited-editions** <br>
-By **[[https://www.instagram.com/el.bebbe.grande/|El Bebbe Grande]]** ↗ <br>
+By **[El Bebbe Grande](https://www.instagram.com/el.bebbe.grande/)** ↗ <br>
 **• Neubau 1** <br>
 **• Vortragssaal** <br>
 **• 12:00–17:00** <br> 
