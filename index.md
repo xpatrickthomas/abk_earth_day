@@ -612,12 +612,12 @@ Performance Video work (12:02). Residenz im Kunsthaus Helleweg. Vögel bauen Nes
 ## ☆ Performances
 
 **☆1. Elephant in the Room** <br>
-By **Jerry Ahn**, **Seonha Park** (& **Jessica Lipp**)<br>
+By **Jerry Ahn** & **Seonha Park**<br>
 **• Bildhauerbau** <br>
 **• Raum 28** <br>
 **• 14:00–16:00** <br> 
 A two-hour sound performance of anxiety, boredom, joy and hope. <br>
-The live sound performance will be recorded by **Jessica Lipp**, **[Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
+The performance will live on [Fullbeansradio](https://www.fullbeansradio.com/)** ↗ <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800878/9.174064)** ↗ <br>
 
 **☆2. Toilet Concert Vol. X** <br>
