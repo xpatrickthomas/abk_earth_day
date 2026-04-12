@@ -635,7 +635,7 @@ By Special Guest **[Donya Ahmadifar](https://www.instagram.com/dny.a/)** ↗ <br
 **• Im Hof** <br>
 **• 17:00–17:05** <br> 
 Donya Ahmadifar is a dancer and choreographer from the local street culture scene. She has been active in various dance fields for several years and is a permanent member of the street style art scene. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800301/9.174875)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
