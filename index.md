@@ -1,7 +1,7 @@
 # Full Itinerary
 **Mittwoch <br>
 Wednesday <br>
-22.4.2026**
+22 April 2026**
 
 ## Index
 **★ [Actions](#-actions) ↗** <br>
