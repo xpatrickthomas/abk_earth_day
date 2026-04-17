@@ -257,7 +257,7 @@ Connect with nature. Hug a tree! <br>
 Description will appear here <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800550/9.174535)** ↗ <br>
 
-**♥10. Wilkräuterwanderung** <br>
+**♥10. Wildkräuterwanderung** <br>
 Organised by **Paula Laible** & **Maya Beckbissinger** <br>
 Participants: **ABK Gartenzwerge**, **alle, die wollen!** <br>
 **• 15:00 Treffpunkt im ABK-Garten, Spaziergang am Killesberg** <br>
