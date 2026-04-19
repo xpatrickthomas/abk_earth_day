@@ -800,11 +800,11 @@ Xx.<br>
 
 **Mentawai – Seelen des Waldes** <br>
 Dokumentarfilm von **Joo Peter** <br>
-**[Trailer](https://vimeo.com/507215435?fl=pl&fe=cm)** ↗
+**[Trailer](https://vimeo.com/507215435?fl=pl&fe=cm)** ↗ <br>
 **• Neubau 2 – Jo's Kino** <br>
 **• 15:30–17:00** <br> 
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800685/9.175435)**
-
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800685/9.175435)** <br>
+<br>
 Curated by **Carsten Fuhrmann** <br>
 Künstlerisch-technischer Lehrer in der Werkstatt für Audiovision und Video im Studiengang Kommunikationsdesign in der Fachgruppe Design <br>
 
