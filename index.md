@@ -489,7 +489,7 @@ By **Lorenzo Mastrosimone** <br>
 (Klasse Choi) <br>
 **• Bildhauerbau** <br>
 **• Raum 35A – Steinwerkstatt** <br>
-**• 10:00–20:00** <br> 
+**• 10:00–17:00** <br> 
 A multi-channel sound installation, based on field recordings, that explores the impact of human intervention on our environment. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800858/9.174429)** ↗ <br>
 
