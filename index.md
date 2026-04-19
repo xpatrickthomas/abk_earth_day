@@ -671,13 +671,17 @@ Donya Ahmadifar is a dancer and choreographer from the local street culture scen
 
 ## ■ Workshop
 
-**■1. Bike Repair Workshop** <br>
-Organised by **TBA**<br>
-**• Neubau 1** <br>
-**• TBA** <br>
-**• 10:00–16:00** <br> 
-Description will appear here <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800819/9.174073)** ↗ <br>
+**■1. Kombucha Workshop** <br>
+Hosted by **Rahel Rosenberger** & **Til Lohmeyer** <br>
+**• Neubau 2** <br>
+**• Vor Raum 1.02** <br>
+**• 12:00–14:30**(?) <br> 
+In diesem Workshop lernst du, wie du deine eigene Kombucha-Kultur pflegst und weiterzüchtest. Mit einem von uns gestellten SCOBY, deinem eigenen Glas(ca.1L) und Tee kannst du ganz einfach deinen eigenen Kombucha ansetzen. Außerdem erfährst du, wie du ihn richtig „fütterst“ und worauf es bei der Pflege des SCOBYs ankommt. <br>
+**• Keine Anmeldung nötig. kommt einfach vorbei!** <br>
+**Was musst du mitbringen:** <br>
+**• Glas (ca. 1L)** <br>
+**• Grüntee / Schwarztee / Tee der Wahl (ca. 15-20g)** <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800515/9.175503)** ↗ <br>
 
 **■2. Textile Dyeing with Plants** <br>
 Hosted by **Rosa Marlene Altmann**<br>
@@ -732,18 +736,6 @@ Organised by **Wibke Neugebauer** & **Daniela Schöpflin**<br>
 “Kick-off” meeting for the **abk– interdisziplinär Färbergarten-workshop** on ecoprint dyeing. Blockseminar: 15–17 May 2026; registration for the workshop is still open until 12 April 2026 (see Vorlesungsverzeichnis) <br> 
 Participant/s: Students already registered for the „Färbergarten“ workshop in May + anyone who is interested in joining the Färbergarten group. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
-
-**■8. Kombucha Workshop** <br>
-Hosted by **Rahel Rosenberger** & **Til Lohmeyer** <br>
-**• Neubau 2** <br>
-**• Vor Raum 1.02** <br>
-**• 12:00–14:30**(?) <br> 
-In diesem Workshop lernst du, wie du deine eigene Kombucha-Kultur pflegst und weiterzüchtest. Mit einem von uns gestellten SCOBY, deinem eigenen Glas(ca.1L) und Tee kannst du ganz einfach deinen eigenen Kombucha ansetzen. Außerdem erfährst du, wie du ihn richtig „fütterst“ und worauf es bei der Pflege des SCOBYs ankommt. <br>
-**• Keine Anmeldung nötig. kommt einfach vorbei!** <br>
-**Was musst du mitbringen:** <br>
-**• Glas (ca. 1L)** <br>
-**• Grüntee / Schwarztee / Tee der Wahl (ca. 15-20g)** <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800515/9.175503)** ↗ <br>
 
 **■X. Title** <br>
 Xx by **Xx Xx**<br>
