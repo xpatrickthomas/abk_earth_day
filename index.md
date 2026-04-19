@@ -796,18 +796,28 @@ Xx.<br>
 
 ---
 
-## Eco-Kino
-
-**Mentawai – Seelen des Waldes** <br>
-Dokumentarfilm von **Joo Peter** <br>
-**[Trailer](https://vimeo.com/507215435?fl=pl&fe=cm)** ↗ <br>
-**• Neubau 2 – Jo's Kino** <br>
+## Eco-Kino <br>
+**• Neubau 2 – 1.UG Raum 01.12 (Jo’s Kino)** <br>
 **• 15:30–17:00** <br> 
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800685/9.175435)** <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800685/9.175435)** ↗ <br>
 <br>
 Curated by **Carsten Fuhrmann** <br>
 Künstlerisch-technischer Lehrer in der Werkstatt für Audiovision und Video im Studiengang Kommunikationsdesign in der Fachgruppe Design <br>
+<br>
+**Mentawai – Seelen des Waldes**, 2023 <br>
+Dokumentarfilm von **Joo Peter** <br>
+Duration: 1h 15m <br>
+Deutschland, Indonesien
+Sprache: Deutsch, Englisch <br>
+**[Trailer](https://vimeo.com/507215435?fl=pl&fe=cm)** ↗ <br>
 
+**Bed Peace**, 1969 <br>
+Dokumentarfilm <br>
+Directed by **Yoko Ono** & **John Lennon**. Filmed by **Nic Knowland** <br>
+Duration: 1h 10m <br>
+Starring **John Lennon** & **Yoko Ono** <br>
+John and Yoko in the presidential suite at the Hilton Amsterdam, which they had decorated with hand-drawn signs above their bed reading “Bed Peace.” They invited the global press into their room to discuss peace for 12 hours every day. <br>
+Bag Productions ©1969 Yoko Ono Lennon
 
 **↗ [Back to Index](#index)**
 
