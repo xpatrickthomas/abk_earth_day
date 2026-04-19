@@ -797,18 +797,17 @@ Xx.<br>
 ---
 
 ## Eco-Kino
+
+**Mentawai – Seelen des Waldes** <br>
+Dokumentarfilm von **Joo Peter** <br>
+**[Trailer](https://vimeo.com/507215435?fl=pl&fe=cm)** ↗
+**• Neubau 2 – Jo's Kino** <br>
+**• 15:30–17:00** <br> 
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800685/9.175435)**
+
 Curated by **Carsten Fuhrmann** <br>
 Künstlerisch-technischer Lehrer in der Werkstatt für Audiovision und Video im Studiengang Kommunikationsdesign in der Fachgruppe Design <br>
-**• Neubau 2 – Vortragssaal** <br>
-**• 18:00–20:00** <br> 
-Description will appear here <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
-| Time                | Title                      | Description               | Year       |
-| :------------       | :------------              | :-------------------      | :------    | 
-| 00:00–00:00         |                            |                           |            | 
-| 00:00–00:00         |                            |                           |            | 
-| 00:00–00:00         |                            |                           |            | 
 
 **↗ [Back to Index](#index)**
 
