@@ -165,8 +165,14 @@ By **[El Bebbe Grande](https://www.instagram.com/el.bebbe.grande/)** ↗ <br>
 Pick up a limited-edition Riso print from Stuttgart's favourite visual satirist in return for a small donation to [International Animal Rescue](https://www.internationalanimalrescue.org) ↗ <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800523/9.174602)** ↗ <br>
 
-
-48.800523/9.174602
+**★16. Greenpoint – ein Herbarium für die ABK** <br>
+Organised by **Klasse Bier** <br>
+**• Altbau** <br>
+**• Raum 219** <br>
+**• 10:00–17:00** <br>
+Wir sammeln Blätter (und Teile) von so vielen Pflanzen, wie wir auf dem ABK-Campus finden können, und gestalten daraus eine Installation. Damit stellen wir die Vielfalt des pflanzlichen Lebens in unserem kulturell definierten Gebiet dar, zollen aber auch allem Tribut, was unsere Welt grün macht. <br>
+**• Alle sind eingeladen mitzumachen!** <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800523/9.174602)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
