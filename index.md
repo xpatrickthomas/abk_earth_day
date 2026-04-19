@@ -468,7 +468,7 @@ Eine Installation aus Holz und programmierte LEDs, die visuellen Einflüsse des 
 
 **●4. telling tales of utopia**, 2026 <br>
 By **Paula Bother** & **Rosa Klingelhöfer** <br>
-(Klasse Choi) <br>
+(Klasse Choi & Klasse Amin) <br>
 **• Neubau 2** <br>
 **• Foyer** <br>
 **• 10:00–18:00** <br> 
