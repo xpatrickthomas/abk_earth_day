@@ -725,13 +725,25 @@ Organised by **Wibke Neugebauer** & **Daniela Schöpflin**<br>
 Participant/s: Students already registered for the „Färbergarten“ workshop in May + anyone who is interested in joining the Färbergarten group. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
 
+**■8. Kombucha Workshop** <br>
+Hosted by **Rahel Rosenberger** & **Til Lohmeyer** <br>
+**• Neubau 2** <br>
+**• Vor Raum 1.02** <br>
+**• 12:00–14:30**(?) <br> 
+In diesem Workshop lernst du, wie du deine eigene Kombucha-Kultur pflegst und weiterzüchtest. Mit einem von uns gestellten SCOBY, deinem eigenen Glas(ca.1L) und Tee kannst du ganz einfach deinen eigenen Kombucha ansetzen. Außerdem erfährst du, wie du ihn richtig „fütterst“ und worauf es bei der Pflege des SCOBYs ankommt. <br>
+• Keine Anmeldung nötig. kommt einfach vorbei!.<br>
+Was musst du mitbringen: <br>
+• Glas (ca. 1L) <br>
+• Grüntee / Schwarztee / Tee der Wahl (ca. 15-20g) <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800515/9.175503)** ↗ <br>
+
 **■X. Title** <br>
 Xx by **Xx Xx**<br>
 **• Xx** <br>
 **• Xx** <br>
 **• 00:00–00:00**(?) <br> 
 Xx.<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800319/9.174542)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
