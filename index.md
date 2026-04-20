@@ -471,7 +471,7 @@ By **Paula Bother** & **Rosa Klingelhöfer** <br>
 (Klasse Choi & Klasse Amin) <br>
 **• Neubau 2** <br>
 **• Foyer** <br>
-**• 10:00–18:00** <br> 
+**• 10:00–20:00** <br> 
 Eine Installation aus selbstgeschöpften Papieren, eingelassen in eine Holzkonstruktion. Die Arbeit beschäftigt sich mit politischen Umbrüchen, die nach Farben und Blumen benannt sind. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800366/9.175506)** ↗ <br>
 
