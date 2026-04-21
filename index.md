@@ -94,7 +94,7 @@ Description will appear here <br>
 **★7. Sustainability: 17 UN Goals** <br>
 Organised by **Michaela Wirsig**<br>
 **• Neubau 2** <br>
-**• Foyer – Nam June Paik Videowall** <br>
+**• Foyer** <br>
 **• 11:00–15:00** <br> 
 A friendly information point featuring the 17 UN Development Goals and current sustainable projects that are thematically related to ABK Stuttgart <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800183/9.175521)** ↗ <br>
