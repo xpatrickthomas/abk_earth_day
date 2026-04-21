@@ -758,14 +758,13 @@ Zu schade zum Wegwerfen! Kleidung ein zweites Leben schenken durch Reparieren un
 
 **■9.	gel plate printing** <br>
 By **Annalisa Fitz** & **Ida Zimmermann** <br>
-**• Altbau <br>
-**• Raum 120 – ABK Typelab <br>
-**• 10:00–12:00 <br>
+**• Altbau** <br>
+**• Raum 120 – ABK Typelab** <br>
+**• 10:00–12:00** <br>
 Join our gel printing workshop: an analogue, environmentally friendly printmaking method using an intuitive, playful process with textures, natural materials, and layering <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800338/9.173823)** ↗ <br>
 
-■10. Workshop
-**non-permanent tattoos**
+**■10. non-permanent tattoos**
 By **Annalisa Fitz** & **Ida Zimmermann** <br>
 **• Altbau** <br>
 **Raum 120 – ABK Typelab** <br>
