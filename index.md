@@ -438,10 +438,10 @@ Pick up a Risograph edition that tells the story of how an anonymous object from
 **▣13. Muttersohn** <br>
 By **Florence Nitschmann** & **Rahel Rosenberger** <br>
 **• Neubau 2** <br>
-**• Graben – EG** <br>
+**• Graben – UG** <br>
 **• 10:00–20:00** <br>
 „Muttersohn“ ist ein textiles Buch, das lyrisch die Geschichte einer Mutter und ihres Sohnes erzählt, die ein Tragisches Ende nimmt. Die Geschichte dient als zynische Allegorie für die Zerstörung der Erde und ist als interdisziplinäres Projekt aus den Fachbereichen Textildesign (Florence Nitschmann) und Kommunikationsdesign (Rahel Rosenberger) entstanden. <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800084/9.175588)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800128/9.175664)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
