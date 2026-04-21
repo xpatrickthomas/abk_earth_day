@@ -687,14 +687,14 @@ In diesem Workshop lernst du, wie du deine eigene Kombucha-Kultur pflegst und we
 
 **■2. Textile Dyeing with Plants** <br>
 Hosted by **Rosa Marlene Altmann**<br>
-**• Keramikbau** <br>
-**• Auf dem Hof** <br>
+**• Neubau 1** <br>
+**• Draußen hinterm Glaskasten** <br>
 **• 12:00–14:00** <br> 
 In diesem Workshop kann jeder (min.) ein Stück Textil mit einem Färbesud aus Pflanzen färben. Du lernst wie man ein Textil zum Färben vorbereitet, den Färbesud selber herstellt und wie der Färbevorgang abläuft. <br>
 Textil und Färbematerial sind gestellt. Achte darauf Arbeitskleidung oder nichts neues/helles anzuziehen. <br>
 Anmeldung vor Ort oder über [Rosa Marlene Altmann](mailto:rosa@juergenaltmann.com) ↗ <br>
 • Teilnehmende: 3 (Min.) / 10 (Max.)<br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800677/9.173780)** ↗ <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800755/9.175274)** ↗ <br>
 
 **■3. TBA** <br>
 **• TBA** <br>
