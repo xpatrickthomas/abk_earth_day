@@ -519,13 +519,13 @@ Participant **Laura Neuscheler** & **Dr. -Ing. Leonie Beek, Festo SE & Co KG** <
 The project translates a biomimetic textile into oil-removal systems. Based on Salvinia molesta, it enables sustainable, reactive and preventive cleanup through three concepts: barrier, mobile and stationary skimmer.<br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800139/9.175730)** ↗ <br>
 
-**●9. Earth Piece.<br>Listen to the sound of the earth turning.** <br>
+**●9. Earth Piece. Listen to the sound of the earth turning. (Yoko Ono)** <br>
 Realisation **Klasse Thomas**<br>
 **• Neubau 2** <br>
 **• 1UG – Graben** <br>
 **• 10:00–20:00** <br> 
-Short description will appear here <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800131/9.175684)** ↗ <br>
+Hand drawn reinterpretation of a seminal artwork from 1963 by Yoko Ono with kind permission from the artist <br>
+**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800075/9.175519)** ↗ <br>
 
 **●10. Bird Camp** <br>
 By **[Chris Kabel](https://www.chriskabel.com/)** <br>
@@ -629,19 +629,11 @@ Performance Video work (6:23) and large scale fabric prints (5x 1,2×0,8m) <br>
 
 **●20. Seedhoodie** <br>
 By **Paula Dischinger** <br>
-**• Keramikbau** <br>
-**• Raum 127A** <br>
+**• Neubau 2** <br>
+**• Graben** <br>
 **• 10:00–20:00** <br>
 A hoodie. Two layers of silk hold 5kg of seeds of all kinds. Pumpkin, Avocado, Cherry; all the seeds I could collect from my daily food waste within one year. The idea was to produce something that gives back more energy than it takes. <br>
 **[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800792, 9.173784)** ↗ <br>
-
-**●21. FK H1 Nest** <br>
-By **Paula Dischinger** & **Sophia Sühwold** (Fork and Knife) <br>
-**• Keramikbau** <br>
-**• Raum 127A** <br>
-**• 10:00–20:00** <br>
-Performance Video work (12:02). Residenz im Kunsthaus Helleweg. Vögel bauen Nester. Ein Nest für Menschen. Wir sammeln - Geborgenheit aus spitzen Ästen? <br>
-**[Karte/Map](https://umap.osm.ch/en/map/abk-earth-day-22-april-2026_12744#22/48.800782/9.173698)** ↗ <br>
 
 **↖ [Back to Index](#index)**
 
